@@ -1,0 +1,31 @@
+Input rows: 44952
+Duplicate analytical rows: 33800
+Rows with quality issues: 100
+
+Missing values by column:
+notes                     44909
+reporting_date            12546
+district_lgd_code           267
+district_as_per_lgd         256
+district                     76
+district_as_per_source       76
+state                        46
+deaths                       16
+cases                        13
+outbreak_starting_date       11
+disease_illness_name          1
+year                          0
+week                          0
+status                        0
+units                         0
+quality_issue                 0
+
+Quality issue values:
+quality_issue
+                                   44852
+missing_state;missing_district;       46
+missing_district;                     30
+missing_deaths;                       10
+missing_cases;                         7
+missing_cases;missing_deaths;          6
+missing_disease;                       1
