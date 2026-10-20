@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+frontend/dp.png
+
+# Large or generated files (see README for how to recreate them)
+reports/
+data/processed/india_districts.geojson
+data/raw/india_shp_2020/in_district.*
+data/raw/india_state_2020/India_State_Boundary.*
+/*.xlsx
+
+# Source data compiled by Dataful from IDSP reports (download link in README)
+data/raw/master-data-*.xlsx
+data/processed/idsp_clean.csv

@@ -1,0 +1,2418 @@
+disease_illness_name,week,total_cases,total_deaths,reporting_rows
+Malaria,49,74871.0,6.0,23
+Cholera,27,64267.0,69.0,49
+Dengue,35,28974.0,57.0,154
+Dengue,41,28848.0,53.0,114
+Dengue,43,26693.0,74.0,110
+Dengue,45,21394.0,64.0,106
+Acute Diarrheal Disease,30,21305.0,128.0,510
+Swine Flu (H1N1),37,20852.0,1631.0,5
+Dengue,42,20647.0,68.0,152
+Acute Diarrheal Disease,28,20035.0,76.0,432
+Acute Diarrheal Disease,24,19387.0,66.0,354
+Dengue,40,18452.0,63.0,127
+Acute Diarrheal Disease,31,18416.0,133.0,458
+Swine Flu (H1N1),36,18105.0,1269.0,4
+Dengue,36,17628.0,30.0,133
+Dengue,37,17296.0,32.0,126
+Acute Diarrheal Disease,34,17098.0,158.0,406
+Acute Diarrheal Disease,25,16717.0,68.0,313
+Acute Diarrheal Disease,32,16716.0,127.0,424
+Acute Diarrheal Disease,29,16540.0,69.0,412
+Dengue,39,16529.0,55.0,132
+Acute Diarrheal Disease,36,16315.0,127.0,340
+Dengue,38,16049.0,74.0,135
+Dengue,34,15701.0,36.0,129
+Swine Flu (H1N1),46,15659.0,1458.0,5
+Swine Flu (H1N1),45,15629.0,1452.0,5
+Acute Diarrheal Disease,26,15604.0,39.0,368
+Acute Diarrheal Disease,27,15474.0,55.0,373
+Acute Diarrheal Disease,33,15288.0,77.0,350
+Swine Flu (H1N1),42,15168.0,1356.0,5
+Swine Flu (H1N1),40,14803.0,1278.0,4
+Dengue,33,14654.0,19.0,97
+Acute Diarrheal Disease,35,14633.0,143.0,359
+Acute Diarrheal Disease,22,14608.0,54.0,276
+Swine Flu (H1N1),39,14595.0,1238.0,4
+Acute Diarrheal Disease,23,14420.0,46.0,310
+Acute Diarrheal Disease,21,14135.0,41.0,253
+Swine Flu (H1N1),41,14091.0,1244.0,3
+Cholera,46,13600.0,20.0,26
+Chikungunya,33,13360.0,0.0,39
+Swine Flu (H1N1),50,12375.0,1047.0,3
+Food Poisoning,9,12273.0,8.0,167
+Swine Flu (H1N1),43,12088.0,979.0,3
+Acute Diarrheal Disease,43,11954.0,48.0,205
+Food Poisoning,19,11953.0,38.0,178
+Food Poisoning,18,11946.0,18.0,222
+Acute Diarrheal Disease,10,11832.0,16.0,119
+Food Poisoning,6,11703.0,8.0,147
+Acute Diarrheal Disease,19,11571.0,28.0,221
+Dengue,44,11461.0,55.0,135
+Malaria,48,11435.0,13.0,27
+Food Poisoning,16,11382.0,23.0,188
+Acute Diarrheal Disease,20,11377.0,14.0,224
+Acute Diarrheal Disease,39,11230.0,84.0,246
+Swine Flu (H1N1),35,10985.0,775.0,3
+Acute Diarrheal Disease,38,10950.0,51.0,273
+Acute Diarrheal Disease,42,10766.0,75.0,281
+Acute Diarrheal Disease,17,10615.0,21.0,187
+Malaria,27,10585.0,66.0,24
+Acute Diarrheal Disease,37,10336.0,99.0,300
+Malaria,25,10310.0,54.0,31
+Food Poisoning,8,9941.0,3.0,152
+Malaria,28,9715.0,77.0,28
+Dengue,30,9630.0,19.0,80
+Food Poisoning,5,9604.0,12.0,143
+Dengue,48,9487.0,7.0,76
+Food Poisoning,26,9466.0,5.0,131
+Dengue,31,9187.0,13.0,84
+Acute Diarrheal Disease,40,8985.0,81.0,257
+Dengue,51,8794.0,9.0,38
+Hepatitis A,38,8779.0,720.0,47
+Food Poisoning,7,8665.0,11.0,128
+Food Poisoning,17,8607.0,25.0,173
+Food Poisoning,14,8419.0,20.0,125
+Food Poisoning,12,8366.0,22.0,112
+Food Poisoning,23,8226.0,11.0,156
+Dengue,29,8177.0,13.0,80
+Food Poisoning,1,8057.0,13.0,91
+Acute Diarrheal Disease,41,8014.0,60.0,240
+Dengue,32,7912.0,3.0,76
+Food Poisoning,21,7892.0,7.0,152
+Food Poisoning,4,7740.0,6.0,116
+Food Poisoning,27,7626.0,3.0,135
+Food Poisoning,22,7517.0,17.0,168
+Food Poisoning,13,7510.0,16.0,114
+Acute Diarrheal Disease,9,7445.0,25.0,152
+Cholera,29,7424.0,25.0,75
+Acute Diarrheal Disease,49,7397.0,8.0,141
+Food Poisoning,15,7302.0,47.0,124
+Acute Diarrheal Disease,6,7171.0,11.0,108
+Swine Flu (H1N1),34,7146.0,674.0,4
+Acute Diarrheal Disease,16,6994.0,15.0,151
+Acute Diarrheal Disease,11,6916.0,15.0,153
+Acute Diarrheal Disease,18,6889.0,18.0,213
+Acute Diarrheal Disease,5,6834.0,20.0,111
+Food Poisoning,10,6806.0,27.0,141
+Food Poisoning,3,6770.0,6.0,90
+Food Poisoning,25,6741.0,24.0,144
+Food Poisoning,47,6687.0,5.0,113
+Acute Diarrheal Disease,45,6639.0,17.0,157
+Acute Diarrheal Disease,47,6631.0,21.0,150
+Swine Flu (H1N1),38,6585.0,489.0,3
+Food Poisoning,20,6561.0,29.0,160
+Food Poisoning,11,6550.0,24.0,162
+Acute Diarrheal Disease,15,6453.0,8.0,127
+Food Poisoning,2,6433.0,6.0,90
+Acute Diarrheal Disease,44,6431.0,52.0,184
+Acute Diarrheal Disease,12,6420.0,5.0,110
+Swine Flu (H1N1),32,6413.0,630.0,2
+Acute Diarrheal Disease,14,6412.0,5.0,117
+Acute Diarrheal Disease,48,6311.0,21.0,140
+Cholera,50,6192.0,31.0,11
+Food Poisoning,46,6182.0,20.0,124
+Food Poisoning,37,6159.0,2.0,112
+Food Poisoning,33,6118.0,23.0,109
+Cholera,31,6070.0,29.0,62
+Food Poisoning,30,6035.0,38.0,140
+Swine Flu (H1N1),29,5991.0,605.0,2
+Cholera,33,5956.0,13.0,47
+Food Poisoning,29,5941.0,55.0,159
+Dengue,47,5855.0,43.0,87
+Food Poisoning,51,5641.0,4.0,105
+Food Poisoning,24,5579.0,15.0,133
+Food Poisoning,44,5545.0,2.0,90
+Cholera,28,5525.0,25.0,64
+Cholera,30,5520.0,22.0,77
+Hepatitis E,26,5502.0,12.0,7
+Acute Diarrheal Disease,7,5398.0,10.0,136
+Food Poisoning,42,5387.0,15.0,101
+Food Poisoning,39,5289.0,21.0,124
+Acute Diarrheal Disease,46,5244.0,24.0,140
+Food Poisoning,45,5236.0,17.0,93
+Acute Encephalitic Syndrome,29,5164.0,746.0,18
+Cholera,37,5135.0,54.0,30
+Food Poisoning,31,5128.0,33.0,100
+Food Poisoning,35,5061.0,20.0,100
+Malaria,32,4978.0,32.0,33
+Chikungunya,50,4897.0,0.0,45
+Acute Diarrheal Disease,13,4865.0,8.0,128
+Food Poisoning,40,4853.0,16.0,88
+Food Poisoning,28,4840.0,10.0,142
+Food Poisoning,52,4836.0,5.0,65
+Acute Diarrheal Disease,4,4823.0,10.0,91
+Chikungunya,30,4714.0,0.0,29
+Cholera,35,4660.0,25.0,52
+Food Poisoning,38,4595.0,41.0,102
+Food Poisoning,41,4575.0,11.0,82
+Acute Diarrheal Disease,50,4552.0,10.0,122
+Acute Diarrheal Disease,8,4527.0,9.0,108
+Cholera,25,4451.0,39.0,52
+Food Poisoning,50,4408.0,19.0,98
+Acute Diarrheal Disease,1,4285.0,0.0,94
+Food Poisoning,34,4277.0,30.0,98
+Food Poisoning,43,4219.0,16.0,86
+Malaria,51,4197.0,15.0,9
+Malaria,47,4164.0,13.0,38
+Cholera,22,4148.0,9.0,53
+Dengue,28,4145.0,25.0,89
+Food Poisoning,48,4133.0,18.0,79
+Cholera,32,4100.0,9.0,52
+Cholera,40,4079.0,47.0,32
+Falciparum Malaria,47,4024.0,6.0,2
+Acute Diarrheal Disease,3,4011.0,11.0,94
+Acute Diarrheal Disease,52,3993.0,9.0,87
+Food Poisoning,36,3861.0,19.0,98
+Chickenpox,14,3856.0,4.0,170
+Acute Encephalitic Syndrome,27,3828.0,569.0,9
+Chickenpox,8,3800.0,2.0,181
+Food Poisoning,32,3769.0,8.0,89
+Cholera,21,3581.0,15.0,40
+Food Poisoning,49,3548.0,27.0,99
+Dengue,24,3545.0,23.0,97
+Chickenpox,7,3484.0,2.0,150
+Cholera,34,3482.0,24.0,49
+Acute Encephalitic Syndrome,25,3443.0,631.0,8
+Measles,14,3442.0,2.0,121
+Acute Diarrheal Disease,51,3427.0,6.0,92
+Dengue,25,3409.0,26.0,106
+Measles,13,3336.0,13.0,106
+Fever,35,3305.0,16.0,73
+Hepatitis E,3,3260.0,24.0,11
+Chickenpox,9,3257.0,6.0,149
+Dengue,26,3250.0,24.0,103
+Hepatitis E,23,3223.0,5.0,11
+Acute Gastroenteritis,6,3177.0,0.0,8
+Cholera,24,3164.0,17.0,52
+Dengue,50,3160.0,10.0,38
+Acute Diarrheal Disease,2,3147.0,4.0,66
+Acute Encephalitic Syndrome,26,3145.0,474.0,16
+Malaria,37,3072.0,35.0,34
+Cholera,36,3028.0,15.0,40
+Measles,10,3010.0,9.0,130
+Chickenpox,5,3002.0,2.0,142
+Dengue,46,3000.0,31.0,77
+Cholera,23,2984.0,19.0,47
+Malaria,35,2948.0,12.0,38
+Chickenpox,13,2938.0,3.0,148
+Malaria,36,2929.0,22.0,32
+Viral Fever (Chikungunya),48,2926.0,0.0,1
+Chickenpox,12,2899.0,0.0,131
+Chickenpox,6,2893.0,0.0,138
+Hepatitis E,22,2890.0,4.0,8
+Fever,41,2881.0,10.0,32
+Cholera,39,2864.0,21.0,43
+Hepatitis E,21,2811.0,2.0,8
+Measles,12,2810.0,24.0,113
+Malaria,50,2789.0,14.0,32
+Cholera,43,2743.0,26.0,17
+Fever,38,2737.0,29.0,68
+Chickenpox,11,2720.0,2.0,151
+Chikungunya,45,2718.0,0.0,36
+Dengue,23,2685.0,3.0,72
+Dengue,21,2651.0,12.0,75
+Chickenpox,16,2647.0,9.0,121
+Measles,16,2591.0,25.0,114
+Dengue,20,2575.0,33.0,98
+Dengue,19,2568.0,29.0,67
+Malaria,41,2566.0,16.0,26
+Chikungunya,43,2445.0,4.0,35
+Cholera,45,2442.0,25.0,30
+Malaria,29,2439.0,18.0,33
+Seasonal Influenza,39,2434.0,6.0,2
+Fever,37,2410.0,19.0,65
+Cholera,42,2409.0,28.0,25
+Cholera,44,2405.0,42.0,25
+Chickenpox,17,2396.0,1.0,134
+Gastroenteritis,25,2372.0,2.0,16
+Cholera,26,2348.0,13.0,65
+Measles,9,2331.0,8.0,133
+Chickenpox,19,2328.0,6.0,123
+Cholera,41,2319.0,6.0,15
+Fever,34,2313.0,8.0,39
+Chikungunya,39,2267.0,0.0,39
+Malaria,20,2259.0,18.0,18
+Measles,6,2232.0,19.0,102
+Hepatitis E,11,2228.0,16.0,10
+Chickenpox,18,2224.0,4.0,136
+Measles,11,2222.0,13.0,128
+Measles,5,2216.0,5.0,103
+Chickenpox,10,2215.0,0.0,110
+Acute Encephalitic Syndrome,24,2212.0,552.0,12
+Cholera,38,2181.0,19.0,32
+Chickenpox,15,2137.0,0.0,106
+Measles,17,2131.0,22.0,119
+Chickenpox,3,2117.0,2.0,103
+Hepatitis E,8,2097.0,9.0,22
+Cholera,20,2096.0,12.0,29
+Measles,7,2087.0,6.0,113
+Malaria,44,2076.0,36.0,31
+Dengue,22,2074.0,12.0,92
+Hepatitis E,20,2024.0,0.0,14
+Measles,8,2023.0,8.0,116
+Chickenpox,20,1994.0,3.0,108
+Malaria,22,1989.0,12.0,28
+Chikungunya,42,1974.0,0.0,51
+Dengue,27,1972.0,10.0,64
+Measles,20,1969.0,10.0,101
+Chickenpox,4,1945.0,10.0,92
+Fever,39,1940.0,19.0,50
+Hepatitis E,10,1932.0,8.0,6
+Malaria,30,1921.0,21.0,55
+Fever,47,1890.0,43.0,23
+Measles,2,1883.0,17.0,79
+Hepatitis E,9,1881.0,11.0,8
+Hepatitis E,7,1811.0,8.0,10
+Hepatitis E,6,1748.0,3.0,10
+Chickenpox,21,1743.0,0.0,105
+Malaria,40,1739.0,6.0,21
+Hepatitis A,13,1737.0,0.0,34
+Measles,3,1735.0,16.0,103
+Fever,36,1704.0,16.0,41
+Hepatitis E,14,1687.0,0.0,13
+Malaria,34,1683.0,11.0,26
+Hepatitis A,24,1672.0,6.0,39
+Malaria,46,1659.0,16.0,29
+Acute Encephalitic Syndrome,23,1656.0,395.0,8
+Chikungunya,27,1641.0,0.0,42
+Malaria,26,1638.0,8.0,47
+Hepatitis A,49,1627.0,1.0,28
+Fever,43,1605.0,20.0,36
+Hepatitis A,42,1602.0,2.0,60
+Gastroenteritis,33,1590.0,2.0,4
+Measles,22,1588.0,6.0,100
+Measles,1,1587.0,4.0,86
+Chikungunya,29,1568.0,0.0,21
+Malaria,1,1562.0,8.0,19
+Measles,21,1554.0,19.0,90
+Chikungunya and Dengue,42,1550.0,2.0,6
+Cholera,19,1549.0,3.0,27
+Malaria,4,1537.0,9.0,12
+Malaria,24,1535.0,32.0,28
+Chikungunya,40,1534.0,2.0,42
+Measles,4,1530.0,12.0,87
+Hepatitis A,52,1528.0,6.0,22
+Chikungunya,35,1527.0,0.0,35
+Hepatitis A,37,1522.0,8.0,34
+Measles,19,1521.0,10.0,75
+Chikungunya,41,1519.0,0.0,19
+Hepatitis E,5,1490.0,3.0,5
+Chikungunya,47,1485.0,1.0,42
+Fever,24,1484.0,6.0,38
+Chikungunya,31,1456.0,1.0,35
+Measles,18,1455.0,24.0,88
+Chickenpox,2,1455.0,2.0,83
+Hepatitis A,32,1452.0,2.0,51
+Measles,23,1449.0,10.0,83
+Cholera,14,1443.0,6.0,18
+Cholera,16,1425.0,0.0,17
+Fever,48,1406.0,6.0,21
+Chickenpox,1,1383.0,0.0,82
+Chickenpox,22,1375.0,8.0,78
+Malaria,38,1374.0,23.0,28
+Cholera,18,1359.0,12.0,28
+Kyasanur Fandest Disease,3,1354.0,0.0,9
+Hepatitis,10,1347.0,2.0,11
+Hepatitis A,16,1346.0,6.0,44
+Chikungunya,38,1344.0,2.0,18
+Hepatitis,23,1339.0,2.0,14
+Cholera,17,1330.0,4.0,22
+Measles,51,1326.0,1.0,67
+Fever,40,1325.0,4.0,35
+Chikungunya,46,1325.0,0.0,37
+Malaria,45,1315.0,1.0,31
+Adenovirus,9,1312.0,0.0,4
+Fever,42,1311.0,15.0,44
+Fever,25,1301.0,0.0,23
+Fever,49,1287.0,44.0,20
+Chickenpox,51,1270.0,0.0,74
+Hepatitis A,28,1269.0,4.0,38
+Dengue,16,1258.0,9.0,42
+Hepatitis A,34,1253.0,0.0,47
+Hepatitis A,20,1241.0,0.0,37
+Chikungunya,23,1240.0,0.0,47
+Leishmaniasis,35,1204.0,18.0,9
+Chikungunya and Dengue,51,1185.0,0.0,2
+Hepatitis A,47,1184.0,3.0,35
+Dengue,49,1180.0,8.0,49
+Hepatitis A,12,1170.0,4.0,47
+Fever,46,1169.0,12.0,23
+Chickenpox,44,1166.0,0.0,28
+Measles,50,1158.0,5.0,58
+Measles,37,1150.0,13.0,37
+Suspected Food Poisoning,49,1150.0,0.0,6
+Chikungunya,34,1148.0,0.0,31
+Viral Fever,44,1140.0,5.0,7
+Fever,31,1134.0,10.0,38
+Malaria,21,1134.0,3.0,16
+Chikungunya,48,1132.0,0.0,30
+Hepatitis A,14,1125.0,3.0,31
+Mumps,48,1114.0,0.0,31
+Hepatitis A,46,1107.0,5.0,34
+Swine Flu (H1N1),13,1089.0,173.0,4
+Japanese Encephalitis,30,1089.0,181.0,64
+Chickenpox,23,1073.0,1.0,49
+Chickenpox,25,1072.0,0.0,79
+Cholera,9,1063.0,1.0,15
+Hepatitis E,24,1055.0,12.0,11
+Chikungunya and Dengue,38,1051.0,0.0,5
+Mumps,11,1042.0,0.0,26
+Acute Gastroenteritis,42,1036.0,2.0,14
+Measles,15,1033.0,7.0,82
+Hepatitis A,25,1029.0,0.0,37
+Suspected Food Poisoning,27,1028.0,0.0,16
+Measles,49,1027.0,2.0,59
+Japanese Encephalitis,29,1024.0,99.0,66
+Chickenpox,49,1023.0,1.0,61
+Dengue,18,1017.0,9.0,47
+Fever,26,1015.0,6.0,26
+Chickenpox,50,1008.0,0.0,52
+Viral Fever,47,1002.0,3.0,6
+Measles,52,998.0,9.0,59
+Suspected Food Poisoning,50,992.0,0.0,12
+Chikungunya,44,992.0,1.0,27
+Chikungunya and Dengue,33,985.0,0.0,2
+Chikungunya,49,973.0,0.0,28
+Chickenpox,26,964.0,2.0,67
+Malaria,39,963.0,4.0,24
+Acute Gastroenteritis,52,962.0,0.0,12
+Dengue,12,957.0,3.0,33
+Chickenpox,47,942.0,0.0,33
+Viral Fever,43,941.0,0.0,6
+Hepatitis A,1,938.0,0.0,15
+Viral Fever,38,938.0,6.0,10
+Measles,39,930.0,6.0,43
+Chikungunya,5,927.0,0.0,26
+Fever,45,927.0,6.0,26
+Malaria,33,924.0,24.0,21
+Viral Fever,46,923.0,0.0,4
+Chikungunya,28,916.0,0.0,21
+Fever,51,912.0,4.0,24
+Cholera,52,911.0,8.0,12
+Hepatitis A,11,908.0,2.0,32
+Suspected Food Poisoning,39,908.0,0.0,14
+Hepatitis A,27,907.0,0.0,31
+Malaria,42,906.0,6.0,16
+Chikungunya,25,901.0,0.0,31
+Viral Fever,41,892.0,2.0,9
+Mumps,5,889.0,0.0,45
+Suspected Food Poisoning,44,886.0,0.0,10
+Kyasanur Fandest Disease,9,884.0,11.0,10
+Hepatitis A,39,881.0,2.0,45
+Measles,25,879.0,20.0,55
+Hepatitis A,45,867.0,0.0,42
+Hepatitis A,8,867.0,4.0,33
+Dengue,2,860.0,6.0,24
+Chickenpox,24,853.0,0.0,53
+Measles,48,853.0,5.0,57
+Cholera,47,847.0,5.0,9
+Viral Fever,37,847.0,14.0,11
+Viral Fever,39,845.0,8.0,10
+Chikungunya,2,840.0,0.0,20
+Fever,30,838.0,9.0,28
+Chickenpox,48,836.0,0.0,57
+Scrub Typhus,3,834.0,1.0,9
+Measles,47,830.0,3.0,59
+Hepatitis A,41,829.0,0.0,40
+Malaria,31,829.0,25.0,29
+Fever,27,821.0,10.0,32
+Measles,24,821.0,5.0,50
+Dengue,1,818.0,2.0,24
+Acute Hepatitis-A,9,818.0,6.0,2
+Fever,33,810.0,9.0,24
+Viral Fever,40,809.0,5.0,7
+Chikungunya,37,805.0,0.0,28
+Gastroenteritis,17,803.0,1.0,5
+Acute Gastroenteritis,10,801.0,0.0,7
+Fever,23,797.0,9.0,31
+Measles,33,794.0,7.0,30
+Dengue,14,792.0,3.0,38
+Mumps,6,791.0,0.0,37
+Viral Fever,42,789.0,0.0,2
+Hepatitis,15,788.0,4.0,20
+Cholera,11,788.0,0.0,10
+Measles,31,785.0,6.0,41
+Viral Fever,36,778.0,7.0,15
+Hepatitis A,51,776.0,0.0,21
+Malaria,11,771.0,6.0,10
+Hepatitis A,29,769.0,3.0,39
+Chikungunya and Dengue,46,765.0,0.0,5
+Measles,30,762.0,2.0,37
+Hepatitis A,48,759.0,1.0,33
+Hepatitis A,43,758.0,0.0,42
+Hepatitis A,35,753.0,4.0,35
+Fever,22,752.0,3.0,16
+Hepatitis A,33,752.0,0.0,32
+Hepatitis A,4,750.0,0.0,28
+Mumps,51,750.0,0.0,37
+Fever,28,749.0,6.0,23
+Fever,29,739.0,4.0,28
+Mumps,7,735.0,0.0,36
+Chikungunya,51,732.0,0.0,28
+Cholera,13,724.0,0.0,8
+Dengue,17,724.0,3.0,44
+Hepatitis A,31,721.0,0.0,23
+Suspected Food Poisoning,34,720.0,0.0,10
+Measles,45,719.0,9.0,45
+Mumps,35,719.0,0.0,24
+Measles,27,719.0,8.0,34
+Fever with Rash,5,718.0,4.0,34
+Hepatitis A,7,717.0,0.0,34
+Measles,42,716.0,4.0,44
+Hepatitis A,2,712.0,0.0,23
+Chickenpox,52,706.0,1.0,35
+Scrub Typhus,33,706.0,12.0,11
+Mumps,30,701.0,0.0,31
+Hepatitis A,44,700.0,0.0,31
+Mumps,43,694.0,0.0,24
+Gastroenteritis,28,692.0,0.0,14
+Measles,46,692.0,1.0,35
+Malaria,23,688.0,11.0,19
+Hepatitis A,9,686.0,0.0,31
+Mumps,34,686.0,0.0,30
+Chikungunya,16,686.0,4.0,32
+Viral Fever,30,685.0,2.0,18
+Hepatitis A,30,684.0,2.0,29
+Malaria,43,681.0,12.0,18
+Fever,44,679.0,13.0,26
+Hepatitis,9,678.0,3.0,16
+Chikungunya,32,673.0,0.0,23
+Cholera,10,670.0,2.0,15
+Food Poisoning (EIEC and Shigella),24,670.0,18.0,2
+Fever,15,667.0,2.0,16
+Fever,18,667.0,3.0,17
+Measles,44,666.0,3.0,49
+Measles,32,663.0,6.0,29
+Chickenpox,32,660.0,0.0,32
+Chikungunya and Dengue,23,657.0,0.0,1
+Hepatitis A,17,654.0,2.0,27
+Swine Flu (H1N1),11,652.0,121.0,1
+Acute Gastroenteritis,46,652.0,0.0,10
+Acute Gastroenteritis,30,652.0,0.0,6
+Mumps,50,646.0,0.0,37
+Hepatitis A,26,644.0,0.0,45
+Fever,9,644.0,0.0,14
+Hepatitis A,22,642.0,2.0,28
+Chikungunya,22,642.0,0.0,27
+Suspected Food Poisoning,7,642.0,0.0,10
+Suspected Food Poisoning,5,642.0,0.0,8
+Hepatitis A,23,640.0,0.0,32
+Chikungunya and Dengue,41,639.0,0.0,5
+Chikungunya,24,638.0,0.0,27
+Measles,36,635.0,2.0,31
+Chikungunya and Dengue,39,634.0,2.0,13
+Mumps,49,631.0,0.0,36
+Hepatitis A,5,630.0,0.0,29
+Hepatitis A,50,630.0,2.0,27
+Chickenpox,30,626.0,0.0,44
+Hepatitis A,18,623.0,2.0,26
+Chickenpox,36,619.0,0.0,27
+Japanese Encephalitis,35,618.0,45.0,16
+Fever,6,616.0,0.0,12
+Measles,38,615.0,4.0,44
+Hepatitis B and C,15,612.0,0.0,2
+Scrub Typhus,41,611.0,11.0,13
+Acute Gastroenteritis,26,610.0,6.0,8
+Mumps,37,608.0,0.0,32
+Hepatitis,25,606.0,1.0,9
+Cholera,6,603.0,8.0,11
+Zika Virus,44,598.0,4.0,8
+Chikungunya,26,594.0,0.0,21
+Dengue,13,591.0,2.0,22
+Chikungunya,11,588.0,0.0,21
+Mumps,39,588.0,0.0,26
+Measles,41,588.0,1.0,35
+Mumps,47,583.0,0.0,35
+Hepatitis A,21,580.0,8.0,30
+Cholera,49,580.0,2.0,8
+Chikungunya,36,573.0,2.0,15
+Jaundice,41,572.0,0.0,10
+Fever,10,570.0,4.0,12
+Mumps,44,568.0,0.0,28
+Typhoid,18,568.0,0.0,6
+Suspected Food Poisoning,19,566.0,0.0,6
+Fever,20,563.0,6.0,16
+Chickenpox,28,558.0,0.0,33
+Measles,28,558.0,4.0,43
+Japanese Encephalitis,31,557.0,75.0,45
+Acute Encephalitis Syndrome (Japanese Encephalitis),28,555.0,76.0,10
+Hepatitis A and E,3,553.0,0.0,7
+Fever,13,552.0,0.0,16
+Chickenpox,35,552.0,0.0,21
+Kyasanur Fandest Disease,11,550.0,2.0,4
+Japanese Encephalitis,32,549.0,137.0,24
+Fever,16,549.0,0.0,15
+Acute Gastroenteritis,28,548.0,0.0,12
+Chickenpox,29,548.0,0.0,42
+Malaria,14,546.0,3.0,3
+Scrub Typhus,36,545.0,24.0,31
+Chikungunya,1,543.0,0.0,14
+Scrub Typhus,51,535.0,7.0,16
+Hepatitis A and E,4,535.0,0.0,3
+Chikungunya,7,535.0,0.0,20
+Acute Respiratandy Illness,49,533.0,0.0,1
+Chikungunya,14,532.0,0.0,18
+Chickenpox,33,530.0,4.0,39
+Hepatitis A,19,527.0,2.0,28
+Chikungunya and Dengue,45,525.0,0.0,10
+Measles,35,524.0,0.0,32
+Shigellosis,24,520.0,0.0,10
+Scrub Typhus,39,518.0,12.0,10
+Hepatitis A,6,516.0,2.0,27
+Fever with Rash,11,516.0,0.0,31
+Chickenpox,46,515.0,0.0,35
+Hepatitis E,16,512.0,0.0,7
+Hepatitis,6,512.0,1.0,11
+Mumps,31,510.0,0.0,28
+Chikungunya,8,509.0,0.0,18
+Measles,43,507.0,2.0,38
+Measles,40,506.0,0.0,25
+Chikungunya,10,505.0,0.0,21
+"Hand, Foot and Mouth Disease (HFMD)",45,504.0,0.0,4
+Mumps,45,504.0,0.0,31
+Dengue,3,501.0,3.0,15
+Hepatitis A,36,498.0,2.0,23
+Measles,26,497.0,0.0,40
+Suspected Food Poisoning,13,496.0,0.0,7
+Leishmaniasis,38,496.0,20.0,15
+Fever,17,496.0,4.0,15
+Measles,29,494.0,3.0,37
+Hepatitis E,13,492.0,1.0,7
+Malaria,18,491.0,16.0,17
+Hepatitis A,15,491.0,0.0,25
+Acute Gastroenteritis,8,491.0,0.0,6
+Suspected Food Poisoning,43,490.0,0.0,8
+Hepatitis A,10,490.0,4.0,17
+Mumps,9,486.0,1.0,30
+Suspected Food Poisoning,26,486.0,0.0,10
+Measles and Rubella,26,486.0,0.0,2
+Acute Gastroenteritis (Norovirus),4,484.0,0.0,4
+Mumps,36,484.0,0.0,27
+Mumps,8,483.0,0.0,30
+Chikungunya,21,483.0,0.0,20
+Fever with Rash,10,483.0,0.0,26
+Chikungunya,19,482.0,0.0,19
+Japanese Encephalitis,37,481.0,100.0,13
+Dengue,10,481.0,10.0,27
+Dysentery,8,475.0,0.0,3
+Mumps,14,475.0,0.0,21
+Fever of Unknown Origin,34,470.0,0.0,6
+Gastroenteritis,32,468.0,4.0,16
+Acute Encephalitis Syndrome (Japanese Encephalitis),31,467.0,132.0,6
+Malaria,19,465.0,3.0,9
+Cholera,5,464.0,0.0,9
+Cholera,3,463.0,0.0,8
+Fever with Rash,7,463.0,0.0,32
+Fever with Rash,4,462.0,1.0,15
+H3N2,37,460.0,0.0,2
+Chickenpox,27,460.0,0.0,39
+Chikungunya,18,456.0,0.0,17
+Acute Encephalitic Syndrome,28,454.0,91.0,18
+Hepatitis E,19,452.0,1.0,9
+Suspected Food Poisoning,37,452.0,0.0,12
+Cholera,12,452.0,1.0,8
+Viral Fever,35,451.0,1.0,7
+Fever,3,450.0,1.0,8
+Dengue,15,447.0,7.0,20
+Fever,32,446.0,3.0,14
+Mumps,46,446.0,0.0,28
+Suspected Food Poisoning,8,443.0,2.0,9
+Chikungunya,17,441.0,0.0,16
+Suspected Food Poisoning,48,440.0,0.0,12
+Adenovirus,2,440.0,0.0,2
+Scrub Typhus and Chikungunya,35,440.0,0.0,2
+Mumps,4,437.0,0.0,31
+Kyasanur Fandest Disease,10,435.0,4.0,7
+Hepatitis A and E,26,431.0,0.0,3
+Fever with Rash,12,431.0,0.0,27
+Mumps,33,425.0,0.0,18
+Scrub Typhus,38,425.0,16.0,24
+Japanese Encephalitis,28,425.0,74.0,63
+Food Poisoning,53,425.0,0.0,12
+Typhoid,4,423.0,0.0,9
+Chikungunya,20,421.0,0.0,23
+Suspected Food Poisoning,29,420.0,0.0,12
+Hepatitis E,51,419.0,7.0,4
+Chickenpox,42,418.0,0.0,22
+Dengue,52,417.0,2.0,16
+Acute Gastroenteritis,37,416.0,0.0,4
+Chickenpox,31,414.0,2.0,19
+Shigellosis,43,412.0,2.0,8
+Mumps,41,411.0,0.0,19
+Acute Diarrheal Disease,53,407.0,1.0,9
+Chikungunya,6,406.0,0.0,20
+Enteric Fever,35,405.0,0.0,3
+Chikungunya and Dengue,35,404.0,3.0,9
+Mumps,10,404.0,1.0,30
+Chikungunya and Dengue,37,404.0,1.0,10
+Mumps,38,397.0,0.0,21
+Chikungunya,15,396.0,0.0,19
+Shigellosis,17,396.0,2.0,4
+Fever,19,393.0,2.0,14
+Seasonal Influenza,44,388.0,14.0,2
+Chickenpox,38,388.0,6.0,24
+Hepatitis A,40,385.0,0.0,25
+Fever with Rash,15,384.0,0.0,22
+Suspected Food Poisoning,52,384.0,0.0,10
+Gastroenteritis,40,384.0,0.0,2
+Hepatitis,31,383.0,2.0,6
+Rubella,20,382.0,0.0,8
+Fever with Rash,17,382.0,0.0,21
+Japanese Encephalitis,42,381.0,83.0,15
+Mumps,40,379.0,0.0,19
+Pertussis,19,376.0,0.0,4
+Hepatitis E,48,371.0,1.0,7
+Malaria,52,369.0,4.0,11
+Typhoid,49,369.0,0.0,10
+Chickenpox,37,367.0,2.0,21
+Dengue,6,367.0,5.0,17
+Chickenpox,43,367.0,0.0,27
+Hepatitis E,40,362.0,0.0,3
+Measles,34,362.0,0.0,21
+Suspected Food Poisoning,25,360.0,0.0,10
+Typhoid,6,359.0,1.0,5
+Chikungunya,12,358.0,0.0,15
+Fever with Rash,8,357.0,0.0,24
+Dysentery,28,356.0,0.0,4
+Hepatitis A and E,1,349.0,0.0,3
+Mumps,12,348.0,0.0,23
+Hepatitis,14,347.0,0.0,11
+Suspected Food Poisoning,1,347.0,0.0,9
+Rubella,17,347.0,0.0,8
+Acute Gastroenteritis,17,346.0,0.0,6
+Fever,11,343.0,2.0,10
+Malaria (P.falciparum & P.vivax),37,342.0,0.0,6
+Suspected Food Poisoning,17,342.0,2.0,10
+Viral Fever,26,342.0,1.0,8
+Shigellosis,1,340.0,0.0,2
+Chikungunya,13,339.0,0.0,19
+Malaria,17,339.0,4.0,12
+Acute Gastroenteritis,22,338.0,0.0,10
+Jaundice,2,336.0,0.0,4
+Hepatitis A,3,336.0,0.0,17
+Chikungunya,52,335.0,0.0,16
+Cholera,53,334.0,1.0,2
+Enteric Fever,27,334.0,0.0,11
+Hepatitis,4,333.0,0.0,6
+Fever with Rash,9,332.0,0.0,27
+Viral Fever,51,330.0,2.0,6
+Hepatitis E,50,330.0,0.0,3
+Acute Encephalitic Syndrome,44,329.0,50.0,3
+Acute Encephalitic Syndrome (Chandipura Virus),33,328.0,146.0,2
+Viral Fever,34,326.0,1.0,5
+Shigellosis,16,326.0,0.0,4
+Viral Fever,33,324.0,3.0,6
+Dengue,11,323.0,3.0,13
+Typhoid,8,320.0,0.0,7
+Gastroenteritis,35,320.0,2.0,10
+Fever with Rash,35,318.0,6.0,11
+Viral Fever,49,317.0,2.0,6
+Japanese Encephalitis,33,316.0,58.0,25
+Typhoid,34,315.0,0.0,7
+Mumps,25,310.0,0.0,14
+Fever,1,310.0,2.0,10
+Viral Fever,28,307.0,0.0,5
+Japanese Encephalitis,39,306.0,4.0,15
+Acute Encephalitic Syndrome (Chandipura Virus),32,306.0,132.0,2
+Hepatitis,16,305.0,0.0,8
+Viral Fever,9,305.0,1.0,2
+Hepatitis C,3,304.0,0.0,1
+Fever of Unknown Origin,46,304.0,4.0,2
+Diarrhoea,21,303.0,0.0,5
+Suspected Food Poisoning,45,300.0,0.0,8
+Fever with Rash,16,300.0,0.0,20
+Dysentery,10,299.0,0.0,1
+Mumps,2,299.0,0.0,23
+Hepatitis E,30,298.0,0.0,8
+Gastroenteritis,37,298.0,4.0,8
+Gastroenteritis,41,296.0,0.0,6
+Suspected Food Poisoning,2,295.0,0.0,5
+Acute Gastroenteritis,36,294.0,0.0,4
+Cholera,1,289.0,3.0,11
+Gastroenteritis,23,288.0,0.0,6
+Gastroenteritis,5,287.0,0.0,5
+Hepatitis A and E,5,287.0,0.0,5
+Suspected Food Poisoning,30,286.0,2.0,10
+Fever with Rash,25,286.0,0.0,19
+Zika Virus,46,286.0,0.0,4
+Typhoid,33,286.0,0.0,8
+Influenza B,5,286.0,0.0,6
+Mumps,3,286.0,0.0,17
+Cholera,48,284.0,0.0,10
+Scrub Typhus,27,280.0,2.0,8
+Viral Fever,21,280.0,0.0,8
+Viral Fever,29,279.0,0.0,8
+Shigellosis,44,279.0,0.0,3
+Scrub Typhus,35,278.0,2.0,17
+Viral Fever,31,275.0,2.0,4
+Chikungunya,9,274.0,0.0,15
+Hepatitis,34,273.0,0.0,10
+Hepatitis,11,273.0,0.0,6
+Mumps,15,272.0,0.0,18
+Typhoid,16,272.0,0.0,9
+Dengue,4,271.0,8.0,24
+Chickenpox,34,271.0,0.0,19
+Suspected Food Poisoning,47,270.0,0.0,10
+Mumps,28,269.0,0.0,14
+Mumps,32,268.0,0.0,13
+Hepatitis E,44,268.0,0.0,5
+Enteric Fever,13,266.0,0.0,2
+Fever,5,265.0,1.0,14
+Zika Virus,43,262.0,4.0,4
+Viral Fever,12,261.0,6.0,4
+Scrub Typhus,32,261.0,0.0,4
+Diphtheria,41,261.0,17.0,14
+Mumps,42,260.0,0.0,20
+Enteric Fever (Typhoid),6,260.0,0.0,2
+Fever,21,259.0,4.0,11
+Fever with Rash,21,259.0,2.0,21
+Paederus Dermatitis From Rove Beetle,2,259.0,0.0,1
+Suspected Food Poisoning,4,259.0,0.0,3
+Influenza A,16,258.0,0.0,2
+Diphtheria,44,258.0,9.0,10
+Diphtheria,38,256.0,50.0,12
+Jaundice,8,254.0,0.0,7
+Shigellosis,42,252.0,2.0,5
+Fever of Unknown Origin,32,252.0,0.0,4
+Leishmaniasis,6,251.0,0.0,9
+Typhoid,47,250.0,0.0,7
+Suspected Typhoid,32,250.0,0.0,6
+Shigellosis,2,248.0,2.0,2
+Kyasanur Fandest Disease,1,248.0,14.0,8
+Rubella,11,247.0,0.0,9
+Mumps,1,247.0,0.0,10
+Chikungunya,3,245.0,1.0,13
+Fever with Joint Pain,21,245.0,0.0,2
+Acute Respiratandy Illness,4,245.0,0.0,1
+Hepatitis E,45,245.0,0.0,7
+Gastroenteritis,44,244.0,0.0,8
+Suspected Food Poisoning,6,241.0,0.0,4
+Japanese Encephalitis,38,241.0,46.0,7
+Acute Gastroenteritis,20,240.0,0.0,6
+Typhoid,1,240.0,0.0,4
+Enteric Fever,39,238.0,0.0,10
+Suspected Food Poisoning,11,238.0,0.0,9
+Fever of Unknown Origin,31,238.0,0.0,2
+Gastroenteritis,27,236.0,2.0,6
+Malaria,16,236.0,4.0,6
+Jaundice,7,236.0,0.0,6
+Adenovirus,20,234.0,0.0,2
+Dengue and Leptospirosis,39,233.0,5.0,3
+Jaundice,29,233.0,0.0,10
+Japanese Encephalitis,44,232.0,33.0,4
+Acute Encephalitis Syndrome (Japanese Encephalitis),27,230.0,68.0,5
+Dysentery,29,230.0,0.0,4
+Swine Flu (H1N1),12,229.0,17.0,3
+Chikungunya and Dengue,1,229.0,0.0,6
+Malaria,13,229.0,0.0,3
+Fever,4,229.0,2.0,8
+Mumps,29,228.0,0.0,14
+Scrub Typhus,43,227.0,13.0,8
+Scrub Typhus,45,226.0,6.0,12
+Swine Flu (H1N1),16,226.0,7.0,5
+Fever,12,226.0,2.0,9
+Rubella,21,225.0,0.0,10
+Gastroenteritis,12,225.0,0.0,10
+Chikungunya,4,225.0,0.0,12
+Hepatitis,27,225.0,0.0,11
+Diphtheria,37,224.0,14.0,6
+Viral Fever,25,224.0,0.0,7
+Influenza B,49,224.0,0.0,2
+Pyrexia of Unknown andigin (PUO),6,223.0,1.0,2
+Hepatitis B and C,16,221.0,0.0,2
+Rubella,22,220.0,0.0,8
+Seasonal Influenza,35,220.0,0.0,2
+Mumps,17,219.0,0.0,15
+Enteric Fever,7,218.0,0.0,2
+Chickenpox,40,218.0,0.0,10
+Scrub Typhus,47,218.0,19.0,11
+Japanese Encephalitis,26,217.0,31.0,30
+Cholera,7,217.0,2.0,2
+Un Differentiated Fever,25,216.0,0.0,2
+Fever of Unknown Origin,33,216.0,0.0,8
+H3N2,3,216.0,0.0,4
+Diphtheria,35,216.0,4.0,12
+Chickenpox,41,215.0,0.0,10
+Dengue,9,215.0,4.0,10
+Scrub Typhus,49,214.0,6.0,5
+Dysentery,44,214.0,0.0,2
+Jaundice,42,214.0,0.0,4
+Acute Gastroenteritis,39,214.0,0.0,4
+Typhoid,29,213.0,0.0,5
+Hepatitis,17,212.0,0.0,8
+Malaria and Dengue,37,212.0,5.0,1
+Japanese Encephalitis,34,211.0,56.0,24
+Gastroenteritis,22,211.0,0.0,9
+Typhoid,7,208.0,0.0,6
+Fever with Rash,14,208.0,0.0,14
+Typhoid,12,207.0,0.0,11
+Cholera,4,206.0,2.0,3
+Hepatitis A and E,24,206.0,0.0,4
+Hepatitis E,12,206.0,1.0,7
+Fever,14,206.0,4.0,5
+Cholera,2,205.0,0.0,5
+Acute Gastroenteritis,11,205.0,0.0,2
+Acute Encephalitis Syndrome (Japanese Encephalitis),25,204.0,38.0,4
+Gastroenteritis,31,204.0,0.0,8
+Mumps,27,204.0,4.0,15
+Malaria,10,204.0,2.0,4
+Viral Fever,1,203.0,1.0,4
+Hepatitis,28,203.0,1.0,7
+Hepatitis E,17,203.0,0.0,10
+Gastroenteritis,30,202.0,0.0,9
+Typhoid,38,202.0,0.0,8
+Rubella,16,201.0,0.0,5
+Acute Encephalitis Syndrome (Japanese Encephalitis),39,201.0,48.0,1
+Acute Diarrhoeal Disease and Respiratandy Tract Infection and Viral Infection,29,200.0,2.0,1
+Chickenpox,45,200.0,0.0,15
+Gas Poisoning,27,200.0,0.0,1
+Viral Fever,6,199.0,0.0,4
+Rubella,7,198.0,2.0,8
+Acute Encephalitis Syndrome (Japanese Encephalitis),24,198.0,32.0,6
+Fever,8,197.0,0.0,9
+Chickenpox,39,197.0,1.0,12
+Gastroenteritis,26,196.0,2.0,10
+Scrub Typhus,1,196.0,5.0,5
+Paratyphoid,10,196.0,0.0,4
+Suspected Typhoid,49,196.0,0.0,4
+Mumps,26,195.0,0.0,8
+Hepatitis E,34,195.0,3.0,5
+Fever with Rash,36,194.0,0.0,7
+Fever with Rash,27,194.0,3.0,13
+Rubella,13,193.0,0.0,6
+Hepatitis,49,192.0,0.0,8
+Scrub Typhus,42,192.0,2.0,8
+Jaundice,25,191.0,1.0,11
+Scrub Typhus,52,190.0,2.0,14
+Hepatitis E,25,190.0,2.0,15
+Suspected Food Poisoning,9,190.0,0.0,5
+Diarrhoea,38,190.0,4.0,8
+Hepatitis,30,189.0,0.0,10
+Enteric Fever,28,189.0,0.0,3
+Suspected Typhoid,1,189.0,0.0,1
+Mumps,52,188.0,0.0,9
+Alcohol Poisoning,20,188.0,11.0,1
+Diarrhoea,23,188.0,5.0,3
+Fever,50,188.0,6.0,13
+Fever with Rash,3,187.0,0.0,14
+Hepatitis E,46,187.0,0.0,4
+Hepatitis A and E,17,186.0,0.0,2
+Rubella,19,186.0,0.0,9
+Typhoid,32,186.0,0.0,9
+Japanese Encephalitis,20,185.0,18.0,15
+Dysentery,3,184.0,0.0,3
+Suspected Food Poisoning,36,184.0,0.0,6
+Dengue and Scrub Typhus,22,184.0,0.0,2
+Typhoid,43,184.0,2.0,4
+Viral Fever,15,183.0,0.0,3
+Pyrexia of Unknown andigin (PUO),30,183.0,1.0,3
+Acute Diarrheal Disease (Shigellosis),27,182.0,0.0,2
+Acute Gastroenteritis,15,182.0,0.0,4
+Typhoid,52,180.0,0.0,4
+Diphtheria,43,180.0,33.0,9
+Suspected Food Poisoning,24,180.0,0.0,4
+Mumps,13,179.0,0.0,11
+Typhoid,44,178.0,0.0,8
+Shigellosis,32,178.0,4.0,6
+Enteric Fever,46,178.0,1.0,2
+Jaundice,5,177.0,0.0,7
+Typhoid,11,176.0,2.0,6
+Acute Gastroenteritis,14,176.0,0.0,4
+Jaundice,10,176.0,0.0,6
+Viral Fever,27,176.0,4.0,7
+Scrub Typhus,7,176.0,2.0,12
+Malaria,15,175.0,0.0,9
+Acute Encephalitic Syndrome,30,175.0,71.0,17
+Japanese Encephalitis,25,174.0,28.0,17
+Chikungunya and Dengue,34,174.0,0.0,6
+Gastroenteritis,39,174.0,0.0,8
+Fever,53,172.0,2.0,5
+Viral Fever,32,172.0,0.0,5
+Kyasanur Fandest Disease,8,172.0,0.0,3
+Measles,53,171.0,0.0,11
+Hepatitis E,47,171.0,0.0,4
+Scrub Typhus,30,171.0,2.0,5
+Chikungunya and Dengue,47,170.0,2.0,6
+Shigellosis,36,170.0,0.0,4
+Gastroenteritis,9,169.0,4.0,5
+Mumps,20,168.0,0.0,9
+Hepatitis,36,168.0,1.0,9
+Food Poisoning (Mushroom Poisoning),29,168.0,0.0,2
+Scrub Typhus,44,167.0,8.0,9
+Hepatitis E,15,166.0,0.0,6
+Cholera,15,166.0,3.0,5
+Fever with Rash,18,166.0,0.0,14
+Gastroenteritis,43,166.0,2.0,6
+Fever,52,165.0,1.0,10
+Fever with Rash,1,165.0,0.0,9
+Jaundice,35,164.0,0.0,8
+Acute Gastroenteritis,4,162.0,0.0,6
+Dengue,7,162.0,4.0,13
+Fever,2,161.0,2.0,7
+Leishmaniasis,49,161.0,0.0,1
+Hepatitis E,36,160.0,0.0,5
+Leptospirosis,40,160.0,4.0,8
+Malaria,7,160.0,3.0,8
+Fever with Rash,26,160.0,0.0,16
+Hepatitis A and E,30,160.0,0.0,2
+Hepatitis,12,160.0,2.0,8
+Gastroenteritis,7,160.0,0.0,3
+Mumps,21,160.0,0.0,12
+Suspected Food Poisoning,18,160.0,0.0,6
+Dengue,5,159.0,2.0,13
+Shigellosis,6,159.0,1.0,3
+Japanese Encephalitis,27,159.0,49.0,28
+Acute Gastroenteritis,3,159.0,0.0,4
+Hepatitis E,4,158.0,0.0,2
+Dysentery,5,158.0,0.0,4
+Leptospirosis,34,158.0,3.0,7
+Malaria (P.falciparum),38,158.0,0.0,4
+Acute Febrile Illness (Enteric Fever),5,157.0,1.0,1
+Typhoid and Hepatitis-E,18,156.0,0.0,2
+Hepatitis E,43,156.0,2.0,11
+Fever with Rash,22,155.0,0.0,13
+Kyasanur Fandest Disease,7,155.0,0.0,1
+Acute Febrile Illness,38,154.0,41.0,11
+Malaria and Dengue,39,154.0,0.0,2
+Influenza B,14,154.0,0.0,3
+Viral Fever,19,154.0,2.0,4
+Suspected Typhoid,47,154.0,0.0,6
+Typhoid,27,154.0,0.0,4
+Hepatitis,26,153.0,0.0,8
+Acute Gastroenteritis,7,153.0,0.0,3
+Jaundice,46,152.0,0.0,6
+Fever with Rash,23,152.0,8.0,12
+Measles and Rubella,31,152.0,0.0,2
+"Hand, Foot and Mouth Disease (HFMD)",18,152.0,0.0,2
+Suspected Food Poisoning,33,152.0,6.0,4
+Enteric Fever,20,151.0,1.0,7
+Seasonal Influenza,13,150.0,0.0,2
+Leptospirosis and Typhoid,38,150.0,0.0,2
+Shigellosis,37,150.0,0.0,4
+Dengue,8,150.0,0.0,8
+Fever with Rash,20,149.0,0.0,19
+Hepatitis E,1,149.0,0.0,6
+Pyrexia of Unknown andigin (PUO),4,148.0,0.0,6
+Shigellosis,15,148.0,0.0,4
+Kyasanur Fandest Disease,5,148.0,2.0,6
+Jaundice,23,148.0,0.0,8
+Malaria,12,148.0,0.0,3
+Leishmaniasis,1,147.0,0.0,5
+Kala Azar,30,147.0,3.0,2
+Hepatitis,47,147.0,3.0,9
+Suspected Food Poisoning,51,146.0,0.0,6
+Hepatitis,33,146.0,1.0,6
+Enteric Fever,25,146.0,0.0,5
+Enteric Fever,16,146.0,0.0,3
+Chikungunya and Dengue,36,146.0,0.0,6
+Acute Diarrhoeal Disease (Rota virus),7,146.0,0.0,4
+Food Poisoning (NandoVirus),1,146.0,0.0,2
+Influenza B,39,145.0,0.0,3
+Suspected Food Poisoning,35,144.0,0.0,4
+Jaundice,18,144.0,0.0,4
+Suspected Typhoid,44,144.0,0.0,4
+Viral Fever,50,144.0,0.0,2
+Measles and Rubella,25,143.0,0.0,2
+Acute Gastroenteritis,51,142.0,0.0,6
+Typhoid,15,142.0,0.0,8
+Diphtheria,36,142.0,28.0,11
+Fever with Rash,51,141.0,0.0,15
+Viral Fever,16,140.0,0.0,2
+Swine Flu (H1N1),14,140.0,8.0,3
+Suspected Typhoid,11,139.0,0.0,3
+Suspected Typhoid,45,138.0,0.0,6
+Mushroom Poisoning,25,138.0,0.0,15
+Acute Gastroenteritis,23,138.0,0.0,4
+Mushroom Poisoning,20,137.0,2.0,13
+Acute Gastroenteritis,5,137.0,0.0,1
+Swine Flu (H1N1),15,136.0,12.0,4
+Gastroenteritis,34,136.0,0.0,4
+Hepatitis,7,136.0,0.0,7
+Hepatitis,21,136.0,4.0,9
+Fever with Rash,13,136.0,0.0,12
+Leptospirosis,15,136.0,2.0,4
+Rubella,12,136.0,0.0,4
+Jaundice,4,135.0,0.0,6
+Hepatitis,52,135.0,0.0,2
+Typhoid,24,134.0,0.0,10
+Suspected Hepatitis,28,134.0,0.0,4
+Measles and Rubella,45,134.0,0.0,2
+Hepatitis,46,133.0,0.0,5
+Hepatitis,40,132.0,1.0,5
+Leishmaniasis,8,132.0,2.0,7
+Viral Fever,10,132.0,0.0,2
+Scrub Typhus,34,132.0,6.0,17
+Jaundice,43,132.0,0.0,4
+Acute Gastroenteritis,44,132.0,0.0,4
+Hepatitis C,30,131.0,0.0,1
+Hepatitis,50,131.0,0.0,7
+Zika Virus,20,130.0,0.0,2
+Rubella,44,130.0,0.0,4
+Viral Fever (Leptospirosis and Chikungunya),4,130.0,0.0,1
+Hepatitis E,28,130.0,0.0,6
+Enteric Fever,14,130.0,0.0,5
+Upper Respiratandy Tract Infection (URTI),21,130.0,0.0,1
+Malaria and Dengue,36,130.0,2.0,1
+Suspected Food Poisoning,23,130.0,0.0,6
+Paratyphoid,50,130.0,0.0,2
+Hepatitis,44,129.0,0.0,3
+Fever with Rash,46,128.0,0.0,5
+Chikungunya and Leptospirosis,29,128.0,0.0,2
+Suspected Food Poisoning,3,128.0,0.0,2
+Hepatitis C,16,128.0,0.0,2
+Pyrexia of Unknown andigin (PUO),11,128.0,0.0,2
+Dengue & Malaria (P.vivax),28,128.0,2.0,2
+H3N2,31,128.0,0.0,2
+Fever with Rash,49,127.0,0.0,8
+Mumps,19,127.0,0.0,13
+Nandovirus,22,126.0,0.0,4
+Suspected Food Poisoning,46,126.0,0.0,6
+Gastroenteritis,29,126.0,2.0,4
+Typhoid,41,126.0,4.0,3
+Hepatitis,24,125.0,0.0,7
+Acute Febrile Illness and Viral Fever,30,125.0,0.0,1
+Suspected Typhoid,38,124.0,0.0,2
+Typhoid,26,124.0,0.0,5
+Enteric Fever,36,124.0,1.0,3
+Acute Gastroenteritis,18,124.0,2.0,8
+Malaria and Leptospirosis,50,124.0,0.0,1
+Hepatitis,51,123.0,2.0,7
+Fever,7,122.0,6.0,6
+Jaundice,13,122.0,2.0,8
+Kala Azar,26,121.0,2.0,1
+Hepatitis E,49,121.0,0.0,1
+Measles and Rubella,7,120.0,0.0,2
+Fever and Headache,41,120.0,0.0,2
+Anthrax,25,120.0,4.0,13
+Falciparum Malaria,43,120.0,0.0,2
+Acute Viral Fever,45,120.0,0.0,2
+Dysentery,47,120.0,0.0,3
+Jaundice,22,119.0,0.0,11
+Fever with Rash,6,119.0,2.0,9
+Acute Gastroenteritis,13,119.0,0.0,5
+Suspected Food Poisoning,38,118.0,0.0,6
+Shigellosis,34,118.0,0.0,6
+H1N1,43,118.0,0.0,2
+Hepatitis E,33,118.0,0.0,6
+Acute Encephalitic Syndrome,35,118.0,8.0,8
+Hepatitis,22,117.0,0.0,8
+Typhoid,3,117.0,0.0,3
+Acute Febrile Illness,36,116.0,0.0,2
+Typhoid,5,116.0,0.0,6
+Leptospirosis,43,116.0,0.0,4
+Gastroenteritis,8,115.0,0.0,3
+Suspected Typhoid,37,114.0,0.0,2
+Others,26,114.0,0.0,2
+Chikungunya and Leptospirosis,37,114.0,0.0,2
+Scrub Typhus and Dengue and Leptospirosis,26,114.0,0.0,2
+Enteric Fever,23,113.0,0.0,5
+Dengue and Japanese Encephalitis,44,112.0,0.0,2
+Mushroom Poisoning,18,112.0,18.0,10
+Hepatitis E,37,112.0,0.0,2
+Jaundice,15,112.0,0.0,4
+Rubella,6,111.0,0.0,9
+Fever of Unknown Origin,45,111.0,0.0,3
+Dengue and Scrub Typhus,36,110.0,0.0,3
+Typhoid,46,110.0,0.0,8
+Gastroenteritis,51,110.0,0.0,4
+Hepatitis E,27,110.0,0.0,8
+Hepatitis E,29,110.0,0.0,8
+Rubella,14,109.0,0.0,6
+Swine Flu (H1N1),7,108.0,0.0,1
+Leishmaniasis,44,108.0,4.0,4
+Mumps,24,108.0,0.0,6
+Influenza B,8,108.0,0.0,4
+"Hand, Foot and Mouth Disease (HFMD)",38,107.0,0.0,5
+Food poisoning (Adverse effect following Vitamin A administration),36,107.0,0.0,1
+Fever with Rash,37,107.0,0.0,5
+Jaundice,37,106.0,0.0,7
+Hepatitis E,42,106.0,0.0,3
+H1N1,8,106.0,0.0,1
+Leptospirosis,30,106.0,4.0,7
+Fever of Unknown Origin,19,106.0,0.0,6
+Hepatitis,8,105.0,0.0,6
+Chikungunya and Dengue,14,105.0,0.0,1
+Rubella,18,105.0,0.0,6
+Others,12,104.0,0.0,2
+"Hand, Foot and Mouth Disease (HFMD)",26,104.0,0.0,2
+Japanese Encephalitis,49,104.0,20.0,14
+Dysentery,13,104.0,0.0,2
+Dysentery,53,102.0,0.0,1
+Hepatitis E,31,102.0,0.0,4
+Scrub Typhus,46,102.0,0.0,4
+Gastroenteritis,18,102.0,2.0,7
+Hepatitis E,18,102.0,0.0,4
+Typhoid,25,102.0,0.0,4
+Fever of Unknown Origin,44,102.0,0.0,4
+Hepatitis A and E,12,101.0,0.0,5
+Hepatitis,38,101.0,0.0,6
+Kyasanur Fandest Disease,6,100.0,3.0,6
+Shigellosis,45,100.0,0.0,2
+Anthrax,22,100.0,3.0,10
+Shigellosis,51,100.0,2.0,2
+Acute Respiratandy Illness,23,100.0,0.0,4
+Typhoid,50,100.0,0.0,10
+Shigellosis,41,100.0,0.0,4
+Fever (Mixed Infection),38,100.0,0.0,1
+Alcohol Poisoning,1,99.0,18.0,2
+Viral Fever,14,98.0,2.0,3
+Chikungunya and Dengue,40,98.0,0.0,5
+Hepatitis C,52,98.0,0.0,1
+Typhoid,30,98.0,0.0,4
+Scrub Typhus,37,98.0,0.0,4
+Chikungunya and Leptospirosis,44,98.0,0.0,2
+Pyrexia of Unknown andigin (PUO),37,98.0,0.0,4
+Gastroenteritis,24,98.0,2.0,4
+Enteric Fever,9,98.0,0.0,4
+Mumps,16,97.0,2.0,10
+Jaundice,9,97.0,0.0,4
+Leishmaniasis,13,97.0,2.0,5
+Malaria (P.falciparum & P.vivax),6,97.0,0.0,1
+Suspected Typhoid,26,96.0,0.0,2
+Acute Encephalitis Syndrome (Japanese Encephalitis),22,96.0,19.0,5
+Acute Encephalitis Syndrome (Japanese Encephalitis),32,96.0,18.0,2
+H3N2,50,96.0,0.0,2
+Hepatitis A and E,50,96.0,0.0,4
+Hepatitis A and E,25,96.0,0.0,2
+Hepatitis E,32,96.0,0.0,6
+Typhoid,9,96.0,0.0,4
+Hepatitis E,35,95.0,0.0,3
+Acute Gastroenteritis,31,94.0,0.0,2
+Hepatitis E,38,94.0,0.0,5
+Gastroenteritis,38,94.0,4.0,4
+Fever of Unknown Origin,35,94.0,0.0,4
+Acute Gastroenteritis,12,94.0,0.0,3
+Alcohol Poisoning,2,94.0,21.0,2
+Cholera,51,93.0,0.0,7
+Enteric Fever,4,92.0,0.0,5
+Scrub Typhus,31,92.0,6.0,10
+Suspected Food Poisoning,12,92.0,0.0,3
+Anthrax,28,92.0,0.0,14
+Acute Gastroenteritis,41,92.0,0.0,4
+Hepatitis C,34,92.0,0.0,2
+Leishmaniasis,17,92.0,2.0,7
+Suspected Typhoid,42,92.0,0.0,4
+Chikungunya and Dengue,44,91.0,0.0,3
+Mixed Fever,49,90.0,0.0,2
+Typhoid,17,90.0,0.0,2
+Typhoid,28,90.0,0.0,6
+Viral Fever (Dengue),4,90.0,0.0,1
+Viral Fever,48,89.0,1.0,4
+Anthrax,21,89.0,10.0,5
+Pyrexia of Unknown andigin (PUO),46,88.0,0.0,4
+Mushroom Poisoning,23,88.0,18.0,9
+Pyrexia of Unknown andigin (PUO),24,88.0,0.0,4
+Leishmaniasis,46,88.0,6.0,7
+Gastroenteritis,36,88.0,0.0,4
+"Hand, Foot and Mouth Disease (HFMD)",31,88.0,0.0,4
+Malaria,2,87.0,7.0,10
+Jaundice,24,87.0,0.0,5
+Hepatitis A and E,22,87.0,0.0,2
+Influenza B,15,87.0,0.0,1
+Leptospirosis,39,86.0,16.0,5
+Jaundice,51,86.0,0.0,5
+Leishmaniasis,28,86.0,2.0,8
+Enteric Fever,30,86.0,0.0,3
+Hepatitis A and B and Leptospirosis,32,86.0,0.0,2
+Typhoid,19,86.0,0.0,2
+Fever of Unknown Origin,29,86.0,0.0,4
+Swine Flu (H1N1),18,85.0,1.0,4
+Food poisoning (Trichinosis),28,85.0,0.0,1
+Jaundice,38,84.0,0.0,6
+Salmonella Gastroenteritis,11,84.0,0.0,2
+Influenza B,2,84.0,0.0,2
+Typhoid,22,84.0,0.0,3
+Leptospirosis,50,84.0,6.0,4
+Typhoid Fever,25,82.0,0.0,2
+Japanese Encephalitis,36,82.0,4.0,14
+Suspected Food Poisoning,42,82.0,0.0,4
+Viral Fever,3,82.0,0.0,2
+Suspected Food Poisoning,32,82.0,0.0,4
+Acute Encephalitis Syndrome (Japanese Encephalitis),26,82.0,6.0,2
+Fever and Upper Respiratandy Tract Infection (URTI),52,82.0,0.0,4
+Fever with Rash,24,82.0,0.0,12
+Acute Respiratandy Infection,10,82.0,0.0,2
+Hepatitis A and E,27,82.0,2.0,2
+Hepatitis A and E,19,81.0,0.0,4
+Diphtheria,40,81.0,11.0,8
+Acute Gastroenteritis,9,80.0,0.0,2
+Dysentery,25,80.0,0.0,2
+Hepatitis,29,80.0,0.0,7
+Trichinellosis,20,80.0,0.0,1
+Scrub Typhus,11,80.0,0.0,3
+Jaundice,17,80.0,2.0,4
+Jaundice,16,80.0,0.0,4
+"Hand, Foot and Mouth Disease (HFMD)",24,80.0,0.0,2
+Acute Gastroenteritis,38,80.0,0.0,2
+Hepatitis A and E,49,79.0,0.0,1
+Enteric Fever,19,78.0,0.0,3
+Gastroenteritis,46,78.0,0.0,2
+COVID 19,10,78.0,0.0,22
+Suspected Food Poisoning (Salmonella),25,78.0,0.0,2
+Others,50,78.0,32.0,2
+Anthrax,19,78.0,4.0,7
+Malaria,5,78.0,2.0,6
+Acute Encephalitic Syndrome,38,78.0,52.0,4
+Chikungunya and Dengue,49,77.0,0.0,4
+Leishmaniasis,29,77.0,0.0,4
+Chikungunya and Dengue,29,76.0,0.0,3
+Chemical Gas Poisoning,35,76.0,0.0,2
+Gastroenteritis,52,76.0,0.0,4
+Fever of Unknown Origin,28,76.0,0.0,4
+Chikungunya and Dengue,43,76.0,0.0,3
+Suspected Typhoid,25,76.0,0.0,2
+Fever with Joint Pain,44,76.0,0.0,2
+Swine Flu (H1N1),20,76.0,3.0,3
+Influenza B,31,76.0,0.0,2
+Leishmaniasis,23,75.0,0.0,5
+Chikungunya and Dengue,52,75.0,1.0,2
+Shigellosis,13,74.0,0.0,4
+Fever with Rash,2,74.0,0.0,4
+Scrub Typhus,4,74.0,0.0,2
+Leishmaniasis,36,74.0,23.0,14
+Diphtheria,28,74.0,8.0,12
+Gastroenteritis,13,74.0,0.0,2
+Fever with Rash,44,74.0,0.0,6
+Hepatitis B,22,74.0,2.0,1
+Food Poisoning (NandoVirus),45,74.0,0.0,2
+Leptospirosis,6,73.0,0.0,4
+Leishmaniasis,25,72.0,2.0,6
+Jaundice,49,72.0,0.0,6
+Scrub Typhus,12,72.0,0.0,1
+Jaundice,31,72.0,0.0,2
+Acute Hepatitis-A,26,72.0,0.0,2
+Gastroenteritis,19,72.0,0.0,2
+Mumps,22,71.0,0.0,7
+Rubella,5,71.0,0.0,5
+Chikungunya and Dengue,16,71.0,0.0,3
+Gas Poisoning,38,71.0,0.0,1
+Acute Gastroenteritis,1,71.0,3.0,4
+Fever of Unknown Origin,21,70.0,0.0,2
+Dysentery,40,70.0,0.0,2
+Paratyphoid,20,70.0,0.0,2
+Gas Poisoning,1,70.0,1.0,1
+Jatropha Seeds Poisoning,51,70.0,0.0,2
+Acute Gastroenteritis,25,70.0,0.0,2
+Hepatitis A and E,6,70.0,0.0,1
+Bacillary Dysentery,27,69.0,1.0,3
+Leishmaniasis,24,69.0,0.0,4
+Scrub Typhus,28,68.0,0.0,6
+Suspected Food Poisoning,28,68.0,0.0,4
+Acute Gastroenteritis (Norovirus),2,68.0,0.0,4
+Scrub Typhus,15,68.0,0.0,4
+Hepatitis A and E,2,68.0,0.0,2
+Suspected Typhoid,12,68.0,0.0,2
+Japanese Encephalitis,22,68.0,14.0,11
+Enteric Fever,8,68.0,0.0,1
+Hepatitis A & E,9,67.0,0.0,2
+Rubella,9,67.0,0.0,4
+Typhoid,14,67.0,0.0,3
+Hepatitis,37,67.0,0.0,3
+Gastroenteritis,6,67.0,0.0,3
+Acute Hepatitis-A,10,66.0,0.0,4
+Dysentery,36,66.0,0.0,2
+Typhoid,40,66.0,0.0,4
+Acute Gastroenteritis,40,66.0,0.0,2
+Enteric Fever,24,66.0,0.0,1
+Influenza like illness,30,66.0,0.0,2
+Leptospirosis,26,66.0,2.0,6
+"Typhoid, Dengue and Scrub Typhus",3,66.0,0.0,2
+Leptospirosis,19,66.0,0.0,2
+Leishmaniasis,50,66.0,0.0,5
+Fever with Cough,6,66.0,0.0,2
+Typhoid,45,66.0,0.0,3
+Gastroenteritis,45,66.0,0.0,2
+Fever with Rash,29,66.0,0.0,8
+Acute diarrheal disease (Klebsiella),12,65.0,0.0,1
+Chikungunya,53,65.0,0.0,5
+Measles and Rubella,6,65.0,0.0,3
+Epidemic Dropsy,43,65.0,4.0,1
+Leptospirosis,29,64.0,0.0,8
+Acute diarrheal disease (Klebsiella),21,64.0,2.0,2
+Viral Fever,18,64.0,0.0,1
+Mumps,23,64.0,0.0,6
+Leishmaniasis,51,64.0,6.0,10
+Vivax Malaria,32,64.0,0.0,2
+Leishmaniasis,31,64.0,4.0,6
+Leishmaniasis,45,64.0,10.0,6
+Japanese Encephalitis,23,64.0,6.0,8
+Swine Flu (H1N1),17,64.0,7.0,4
+Acute Gastroenteritis,24,64.0,0.0,2
+Mumps,18,64.0,0.0,5
+Hepatitis E,41,64.0,0.0,4
+Diphtheria,34,64.0,18.0,14
+Acute Gastroenteritis,48,64.0,2.0,4
+Shigellosis,21,64.0,0.0,2
+Fever with Rash,50,64.0,0.0,5
+Viral Fever,17,63.0,0.0,1
+Encephalitis,36,63.0,1.0,2
+Shigellosis,12,63.0,1.0,1
+Bacillary Dysentery,36,63.0,0.0,1
+Enteric Fever,12,62.0,0.0,2
+Typhoid,13,62.0,0.0,4
+Typhoid,31,62.0,0.0,4
+Hepatitis A and E,10,62.0,0.0,2
+Diarrhoea,5,62.0,0.0,2
+Dengue and Leptospirosis,22,62.0,0.0,2
+Acute Respiratandy Illness,6,62.0,0.0,2
+Typhoid,35,62.0,0.0,2
+Enteric Fever,21,61.0,0.0,3
+Jaundice,28,61.0,0.0,2
+Diphtheria,45,61.0,5.0,5
+Acute Respiratandy Infection,40,60.0,0.0,2
+Kyasanur Fandest Disease,14,60.0,4.0,1
+DVD,28,60.0,0.0,2
+Acute Respiratandy Infection,3,60.0,0.0,1
+Swine Flu (H1N1),19,60.0,6.0,4
+Suspected Food Poisoning,22,60.0,0.0,4
+Dysentery,35,60.0,2.0,2
+Measles and Rubella,24,60.0,0.0,2
+Japanese Encephalitis,40,60.0,14.0,7
+Leishmaniasis,20,60.0,1.0,5
+Chikungunya and Dengue,26,60.0,0.0,2
+Hepatitis A and E,38,60.0,0.0,2
+Typhoid,42,60.0,4.0,8
+Enteric Fever,33,59.0,3.0,3
+Epidemic Dropsy,21,59.0,2.0,1
+Diphtheria,33,58.0,0.0,10
+Fever with Rash,28,58.0,0.0,6
+Suspected Dengue Fever,33,58.0,6.0,6
+Influenza B,30,58.0,0.0,2
+Leishmaniasis,4,58.0,0.0,1
+Malaria and Dengue,42,58.0,0.0,2
+Convulsions of Unknown Cause,2,58.0,0.0,2
+Measles and Rubella,9,58.0,0.0,6
+Hepatitis E,2,58.0,0.0,4
+Bacillary Dysentery,18,58.0,0.0,2
+Shigellosis,29,58.0,0.0,2
+Malaria,6,57.0,2.0,5
+Acute Respiratandy Infection,23,57.0,0.0,1
+Viral Fever,24,57.0,0.0,3
+Gastroenteritis,16,57.0,0.0,2
+Anthrax,24,57.0,1.0,7
+Hepatitis,39,57.0,0.0,4
+Food Poisoning (Staphylococcus),25,57.0,0.0,1
+Acute Diarrhoeal Disease (Rota virus),5,56.0,0.0,2
+Suspected Typhoid,34,56.0,0.0,2
+Typhoid,20,56.0,0.0,6
+Suspected Typhoid,13,56.0,0.0,1
+Hepatitis,3,56.0,0.0,4
+Diarrhoea,45,56.0,0.0,2
+Typhoid Fever,22,56.0,0.0,2
+Jaundice,19,56.0,0.0,6
+Suspected Food Poisoning,31,56.0,0.0,4
+Enteric Fever,38,56.0,2.0,2
+Food Poisoning (Acute Diarrhoeal Disease),47,56.0,0.0,1
+Malaria (P.falciparum),23,56.0,0.0,2
+Enteric Fever,10,56.0,0.0,3
+Japanese Encephalitis,24,56.0,14.0,18
+Leishmaniasis,10,54.0,2.0,5
+Fever with Rash,47,54.0,0.0,4
+Hepatitis B,4,54.0,4.0,2
+Chickenpox,53,54.0,0.0,4
+Acute Gastroenteritis,43,54.0,0.0,2
+Acute Gastroenteritis,47,54.0,0.0,4
+Cutaneous Anthrax,17,54.0,0.0,3
+Typhoid,37,54.0,0.0,2
+Food Poisoning (Caster Fruit),11,54.0,0.0,2
+Paratyphoid,25,54.0,0.0,2
+Malaria (P.vivax),24,54.0,0.0,2
+Typhoid and Chikungunya,46,54.0,0.0,2
+Rubella,23,53.0,0.0,3
+Kala Azar,24,53.0,2.0,2
+Diarrhoea,27,53.0,0.0,2
+Leptospirosis,11,53.0,4.0,6
+Leishmaniasis,41,53.0,6.0,11
+Food (Alcohol) poisoning,45,53.0,15.0,1
+Pertussis,27,53.0,0.0,1
+Japanese Encephalitis,43,52.0,4.0,9
+Salmonellosis,26,52.0,0.0,2
+Chikungunya and Dengue,24,52.0,0.0,2
+Leptospirosis,27,52.0,0.0,2
+Measles and Rubella,29,52.0,0.0,2
+Typhoid Fever,23,52.0,0.0,2
+Viral Fever,5,52.0,2.0,2
+Leishmaniasis,7,52.0,4.0,2
+Acute Gastroenteritis,32,52.0,0.0,2
+Epidemic Dropsy,33,52.0,6.0,2
+Bacillary Dysentery,17,52.0,0.0,2
+Viral Fever,2,51.0,2.0,3
+Malaria,53,51.0,3.0,2
+Malaria,9,51.0,1.0,1
+Diphtheria,42,51.0,17.0,12
+Jaundice,32,51.0,0.0,3
+Leishmaniasis,3,50.0,2.0,4
+Acute Gastroenteritis,45,50.0,0.0,4
+Pyrexia of Unknown andigin (PUO),31,50.0,0.0,2
+Anthrax,23,50.0,2.0,10
+Enteric Fever,1,50.0,0.0,2
+Fever with Rash,32,50.0,0.0,2
+Hepatitis,5,50.0,0.0,3
+Dengue and Scrub Typhus,34,50.0,0.0,2
+Leishmaniasis,39,50.0,0.0,4
+Animal bite - Dog Bite,49,50.0,0.0,2
+"Uneasiness, Vomiting and Diarrhoea",44,50.0,0.0,2
+Diphtheria,47,50.0,9.0,6
+Leishmaniasis,47,50.0,7.0,8
+Acute Gastritis,30,50.0,0.0,2
+Others,29,50.0,0.0,2
+Jaundice,36,50.0,0.0,2
+Dysentery,21,50.0,0.0,4
+"Hand, Foot and Mouth Disease (HFMD)",48,50.0,0.0,3
+Leishmaniasis,32,49.0,1.0,6
+Acute Encephalitic Syndrome,33,49.0,21.0,7
+Chikungunya and Dengue,21,49.0,0.0,2
+Suspected Food Poisoning (Klebsiella),49,48.0,0.0,2
+Suspected Typhoid,52,48.0,0.0,2
+Suspected Acute Hepatitis,18,48.0,0.0,2
+Viral Fever,22,48.0,0.0,2
+Scrub Typhus,18,48.0,2.0,2
+Zika Virus,28,48.0,0.0,10
+Influenza B,38,48.0,0.0,1
+Mushroom Poisoning,26,48.0,2.0,8
+Chickenpox and Measles,1,48.0,0.0,2
+H3N2,43,48.0,0.0,2
+Scrub Typhus,29,48.0,1.0,5
+Salmonellosis,2,48.0,0.0,2
+Trichinellosis,48,48.0,0.0,2
+Fever with Rash,52,48.0,0.0,4
+Hepatitis A and Leptospirosis,27,48.0,0.0,2
+Acute Encephalitis Syndrome (Japanese Encephalitis),41,48.0,0.0,2
+Anthrax,30,48.0,0.0,4
+Gastroenteritis,10,48.0,2.0,2
+Bacillary Dysentery,35,47.0,0.0,1
+Fever with Rash,45,47.0,1.0,6
+Japanese Encephalitis,21,47.0,8.0,1
+Acute Viral Conjunctivitis,14,47.0,0.0,1
+Zika Virus,31,46.0,0.0,10
+Leptospirosis and Scrub Typhus,12,46.0,4.0,2
+H3N2,47,46.0,0.0,2
+Brucellosis,10,46.0,0.0,1
+Typhoid,36,46.0,0.0,2
+Cholera,8,46.0,0.0,4
+Anthrax,20,46.0,7.0,7
+Fever with Rash,38,46.0,0.0,6
+Rubella,47,46.0,0.0,2
+Gastroenteritis,14,46.0,1.0,2
+Chikeckenpox,23,46.0,0.0,2
+Acute Encephalitic Syndrome,22,46.0,14.0,8
+Jaundice,45,46.0,0.0,2
+Dengue and Leptospirosis,11,46.0,0.0,2
+H3N2,1,46.0,0.0,2
+Shigellosis,31,46.0,4.0,2
+Leishmaniasis,18,45.0,0.0,3
+Suspected Typhoid,7,45.0,0.0,1
+Viral Fever (Dengue and Chikungunya),41,45.0,0.0,1
+Alcohol Poisoning,41,45.0,3.0,1
+Chikungunya and Dengue,15,44.0,0.0,2
+Acute Encephalitic Syndrome,17,44.0,20.0,4
+Gastroenteritis,20,44.0,0.0,2
+Hepatitis A and E,28,44.0,0.0,2
+Allergic Conjunctivitis,45,44.0,0.0,2
+Rubella,24,44.0,0.0,4
+Leptospirosis,41,44.0,2.0,4
+Suspected Typhoid,50,44.0,0.0,2
+Suspected Typhoid,35,44.0,0.0,2
+Animal bite - Dog Bite,50,44.0,0.0,2
+Dengue and Leptospirosis,42,44.0,0.0,2
+Hepatitis A and E,32,44.0,0.0,2
+Malaria (P.vivax),25,43.0,0.0,1
+Viral Fever,4,43.0,0.0,2
+Jaundice,27,43.0,0.0,3
+Fever of Unknown Origin,23,42.0,0.0,2
+Brucellosis,15,42.0,0.0,2
+Leishmaniasis,43,42.0,0.0,2
+Dengue and Leptospirosis,36,42.0,0.0,1
+Suspected Food Poisoning,40,42.0,0.0,4
+Dysentery,17,42.0,0.0,2
+Salmonellosis,38,42.0,2.0,2
+Japanese Encephalitis,10,42.0,6.0,2
+Filariasis,22,42.0,0.0,2
+Nandovirus,19,42.0,0.0,2
+Leptospirosis,2,42.0,2.0,3
+Hepatitis B and C,20,41.0,3.0,1
+Measles and Rubella,12,41.0,0.0,3
+Hepatitis,1,41.0,0.0,3
+Hepatitis,2,41.0,0.0,3
+Hepatitis,18,41.0,0.0,4
+Chikungunya and Dengue,11,41.0,0.0,3
+Chikungunya and Dengue,6,40.0,0.0,2
+Shigellosis,38,40.0,0.0,2
+Fever with Body Pains,44,40.0,0.0,2
+"Hand, Foot and Mouth Disease (HFMD)",28,40.0,0.0,5
+Leptospirosis,24,40.0,0.0,2
+Nipah Viral Disease,22,40.0,34.0,4
+Leptospirosis,25,40.0,0.0,2
+Japanese Encephalitis,50,40.0,10.0,6
+Anthrax,27,40.0,1.0,5
+Chikungunya and Dengue,31,40.0,0.0,2
+Hepatitis,32,40.0,0.0,2
+Pertussis,4,40.0,0.0,1
+Enteric Fever,22,40.0,0.0,2
+Shigellosis,40,40.0,2.0,2
+Dysentery,24,40.0,0.0,2
+Dysentery,26,40.0,0.0,2
+Leptospirosis,9,39.0,3.0,3
+Hepatitis,35,39.0,7.0,4
+Anthrax,16,39.0,0.0,5
+Japanese Encephalitis,7,39.0,3.0,5
+Suspected Typhoid,8,39.0,0.0,1
+ARI Influenza Like Illness(ILI),30,38.0,0.0,2
+Leptospirosis,20,38.0,0.0,4
+Rubella,25,38.0,0.0,2
+Leptospirosis,35,38.0,0.0,3
+Jaundice,21,38.0,0.0,2
+Hepatitis A & E,11,38.0,0.0,1
+Nipah Viral Disease,23,38.0,34.0,2
+Diphtheria,49,38.0,3.0,7
+Acute Gastroenteritis,2,38.0,0.0,2
+Jaundice,33,38.0,0.0,4
+Scrub Typhus,17,38.0,2.0,6
+Rubella,10,38.0,0.0,5
+Enteric Fever,31,38.0,0.0,2
+Acute Encephalitis Syndrome (Japanese Encephalitis),19,38.0,3.0,1
+Food Poisoning (Mushroom Poisoning),17,38.0,10.0,4
+Measles and Rubella,5,38.0,0.0,2
+Diarrhoea,22,38.0,0.0,1
+Fever with Arthralgia,39,38.0,0.0,2
+Dysentery,49,37.0,0.0,1
+Mushroom Poisoning,29,37.0,0.0,5
+Hepatitis,43,37.0,2.0,3
+"Hand, Foot and Mouth Disease (HFMD)",41,37.0,0.0,1
+Chickenpox and Rubella,6,37.0,0.0,1
+Falciparum Malaria,46,36.0,2.0,2
+Acute Encephalitis Syndrome (Japanese Encephalitis),44,36.0,2.0,2
+Chikungunya and Dengue,13,36.0,0.0,2
+Dysentery,12,36.0,0.0,2
+Fever with Rash,19,36.0,0.0,4
+Leishmaniasis,27,36.0,0.0,3
+Malaria (P.vivax),30,36.0,0.0,2
+Japanese Encephalitis,47,36.0,7.0,5
+Chickenpox and Mumps,47,36.0,0.0,2
+Vomiting and Diarrhoea,43,36.0,0.0,2
+H3N2,14,35.0,0.0,1
+Hepatitis,48,35.0,0.0,1
+Scrub Typhus,2,35.0,0.0,3
+Diphtheria,19,35.0,1.0,3
+Diarrhoea,7,35.0,0.0,1
+Gastroenteritis,21,34.0,0.0,2
+Leptospirosis,21,34.0,2.0,2
+Nipah Viral Disease,21,34.0,28.0,2
+Fever and Chikungunya,42,34.0,0.0,1
+Dengue and Scrub Typhus,17,34.0,0.0,1
+Leptospirosis,28,34.0,0.0,2
+Epidemic Dropsy,44,34.0,3.0,1
+Acute Respiratandy Infection,8,34.0,0.0,2
+Diphtheria,27,34.0,4.0,4
+Shigellosis,7,34.0,0.0,2
+Scrub Typhus,13,34.0,0.0,2
+Methanol Poisoning,33,34.0,7.0,1
+Trichinellosis,19,34.0,0.0,1
+Chickenpox and Measles,6,34.0,0.0,1
+Shigellosis,46,34.0,0.0,2
+Diarrhoea,42,33.0,0.0,1
+Diphtheria,11,33.0,3.0,7
+Malaria,3,33.0,5.0,3
+Anthrax,33,33.0,1.0,3
+Hepatitis A,53,33.0,0.0,1
+Kala Azar,23,33.0,0.0,1
+Fever with Rash,43,33.0,2.0,3
+Diphtheria,39,32.0,12.0,9
+Shigellosis,35,32.0,0.0,2
+Gastroenteritis,47,32.0,0.0,2
+Leptospirosis and Scrub Typhus,42,32.0,0.0,2
+Fever and Upper Respiratandy Tract Infection (URTI),51,32.0,0.0,2
+Dengue and Leptospirosis,4,32.0,1.0,1
+Leptospirosis,36,32.0,0.0,4
+Hepatitis,19,32.0,2.0,2
+Suspected Food Poisoning,20,32.0,0.0,2
+Suspected Mushroom Poisoning,26,32.0,0.0,2
+Acute Hepatitis,2,32.0,0.0,2
+Jaundice,14,32.0,0.0,2
+Anthrax,17,32.0,0.0,5
+Influenza B,10,32.0,0.0,2
+Jatropha Seeds Poisoning,1,32.0,0.0,2
+Jaundice,52,32.0,0.0,2
+Zika Virus,29,32.0,0.0,8
+Enteric Fever,37,31.0,2.0,2
+Rubella,28,31.0,0.0,1
+Swine Flu (H1N1),21,31.0,4.0,3
+Anthrax,43,31.0,0.0,2
+Chikungunya and Dengue,5,31.0,0.0,1
+Acute Gastroenteritis,35,30.0,0.0,2
+Scabies,15,30.0,0.0,2
+Acute Respiratandy Infection,48,30.0,0.0,1
+Pyrexia of Unknown andigin (PUO),10,30.0,0.0,2
+Diarrhoea,28,30.0,0.0,2
+Pare,25,30.0,0.0,2
+Japanese Encephalitis,18,30.0,8.0,8
+Diphtheria,30,30.0,0.0,5
+Fever with Rash,48,30.0,0.0,2
+"Hand, Foot and Mouth Disease (HFMD)",49,30.0,0.0,1
+Suspected Measles,18,30.0,0.0,2
+Chikungunya and Dengue,12,30.0,0.0,2
+Chikungunya and Dengue,18,30.0,0.0,2
+Rubella,52,30.0,0.0,2
+Hepatitis C,18,30.0,0.0,1
+Suspected Typhoid,4,30.0,0.0,1
+Suspected Typhoid,36,30.0,0.0,2
+Brucellosis,37,30.0,0.0,2
+Anthrax,18,30.0,0.0,4
+Fever with Rash,30,30.0,0.0,2
+Hepatitis E,53,30.0,0.0,1
+Shigellosis,48,30.0,0.0,2
+Anthrax,35,30.0,0.0,4
+Hepatitis A and E,15,30.0,0.0,4
+Vitamin A Overdosage,23,30.0,0.0,1
+Jaundice,47,30.0,0.0,2
+Japanese Encephalitis,1,30.0,4.0,6
+Animal bite - Dog Bite,20,30.0,4.0,4
+Alcohol Poisoning,50,30.0,0.0,1
+Mushroom Poisoning,22,30.0,10.0,4
+Leishmaniasis,33,30.0,0.0,1
+Dysentery (Shigella),20,30.0,2.0,2
+Jaundice,26,29.0,0.0,3
+Jaundice,11,29.0,0.0,4
+Enteric Fever,48,29.0,0.0,2
+Enteric Fever,17,29.0,0.0,1
+Measles and Rubella,13,29.0,0.0,1
+Cutaneous Anthrax,19,29.0,0.0,3
+Chandipura Vesiculovirus (CHPV),30,29.0,18.0,9
+Enteric Fever,50,29.0,0.0,1
+Hepatitis C,33,29.0,0.0,1
+Hepatitis C,8,29.0,0.0,1
+Enteric Fever,45,28.0,0.0,2
+Scrub Typhus,40,28.0,0.0,2
+Malaria (P.falciparum),30,28.0,2.0,4
+Scrub Typhus,22,28.0,2.0,6
+Pertussis,26,28.0,0.0,4
+Paratyphoid,5,28.0,0.0,2
+Kala Azar,47,28.0,2.0,4
+Cutaneous Anthrax,26,28.0,0.0,4
+Cutaneous Anthrax,18,28.0,0.0,2
+Leptospirosis,46,28.0,2.0,4
+Acute Febrile Illness,50,28.0,0.0,2
+Hepatitis A and E,44,28.0,0.0,2
+Scrub Typhus,16,28.0,0.0,2
+Leptospirosis,5,28.0,0.0,4
+Leishmaniasis,37,28.0,4.0,8
+Kala Azar,12,28.0,0.0,2
+Dengue & Leptospirosis,39,28.0,0.0,2
+Fever with Rash,40,28.0,0.0,2
+Food Poisoning (Salmonellosis),29,28.0,0.0,2
+Food Poisoning (Mushroom Poisoning),22,28.0,2.0,6
+Measles and Rubella,10,28.0,0.0,1
+Fever with Rash,31,28.0,0.0,2
+Anthrax,32,28.0,6.0,5
+Japanese Encephalitis,41,27.0,0.0,7
+Animal bite - Dog Bite,33,26.0,0.0,2
+Leptospirosis,47,26.0,0.0,4
+Leptospirosis,22,26.0,4.0,4
+Hepatitis A and E,43,26.0,0.0,2
+Dysentery,14,26.0,0.0,1
+Dysentery,38,26.0,0.0,1
+Kala Azar,25,26.0,0.0,4
+Jaundice,12,26.0,0.0,1
+Poisoning,7,26.0,0.0,2
+Jaundice,50,26.0,0.0,2
+Kyasanur Fandest Disease,15,26.0,4.0,1
+Rubella,15,26.0,0.0,1
+Kala Azar,43,26.0,0.0,2
+Jaundice,39,26.0,0.0,2
+Acute Hepatitis-A,24,26.0,0.0,2
+Pertussis,10,26.0,0.0,4
+Animal bite - Dog Bite,2,26.0,0.0,2
+Anthrax,26,26.0,0.0,4
+Chikungunya and Dengue,4,26.0,0.0,2
+Leishmaniasis,11,26.0,2.0,5
+Meningococcal Meningitis,6,26.0,3.0,1
+Meningococcal Meningitis,7,26.0,3.0,1
+Viral Fever,52,25.0,0.0,1
+Leishmaniasis,42,25.0,10.0,7
+Fever and Chikungunya,34,25.0,0.0,1
+Acute Respiratandy Illness,31,25.0,0.0,1
+Suspected Typhoid,9,25.0,0.0,1
+Acute Encephalitis Syndrome (Japanese Encephalitis),30,25.0,6.0,1
+Cutaneous Anthrax,33,25.0,0.0,1
+Dengue,53,25.0,0.0,1
+Suspected Typhoid,27,24.0,0.0,2
+Acute Gastroenteritis,50,24.0,0.0,2
+Leishmaniasis,48,24.0,0.0,2
+Cutaneous Anthrax,13,24.0,1.0,4
+Suspected Food Poisoning,41,24.0,0.0,2
+Chikungunya and Dengue,32,24.0,0.0,2
+Chickenpox and Measles,3,24.0,0.0,2
+"Hand, Foot and Mouth Disease (HFMD)",4,24.0,0.0,2
+Alcohol Poisoning,3,24.0,5.0,1
+Shigellosis,14,24.0,2.0,4
+Measles and Rubella,17,24.0,0.0,2
+Acute Encephalitic Syndrome,31,24.0,19.0,3
+Bacillary Dysentery,33,24.0,0.0,2
+Mushroom Poisoning,15,24.0,9.0,1
+Jaundice,44,24.0,0.0,1
+Jaundice,40,24.0,0.0,2
+Viral Fever (Dengue and Chikungunya),48,24.0,0.0,1
+Fever of Unknown Origin,42,24.0,0.0,2
+Dengue and Scrub Typhus,19,24.0,0.0,2
+Typhoid Fever,6,24.0,0.0,2
+Scrub Typhus,23,24.0,0.0,8
+Malaria (P.falciparum & P.vivax),28,24.0,2.0,4
+Diphtheria,32,24.0,6.0,4
+Acute Hepatitis-A,8,24.0,0.0,2
+Enteric Fever,3,23.0,1.0,2
+Viral Fever (Leptospirosis),15,23.0,0.0,1
+Alcohol Poisoning,42,23.0,11.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),36,23.0,12.0,15
+Anthrax,14,23.0,0.0,2
+Acute Encephalitic Syndrome,51,23.0,12.0,2
+Zika Virus,27,22.0,0.0,4
+Vivax Malaria,35,22.0,0.0,2
+Paratyphoid,51,22.0,0.0,2
+Malaria (P.vivax),28,22.0,0.0,2
+Suspected Typhoid,21,22.0,0.0,2
+Chikungunya and Dengue,2,22.0,0.0,1
+Suspected Typhoid,10,22.0,0.0,1
+Fever with Rash,41,22.0,0.0,4
+Anthrax,9,22.0,0.0,4
+Dengue and Leptospirosis,47,22.0,0.0,2
+Enteric Fever (Typhoid),28,22.0,0.0,2
+Chickenpox and Measles,51,22.0,0.0,2
+Leishmaniasis,14,22.0,0.0,3
+Suspected Scrub Typhus,32,22.0,0.0,2
+Shigellosis,50,22.0,0.0,2
+Measles and Rubella,22,22.0,0.0,2
+Fever with Rash,34,22.0,0.0,2
+Diphtheria,9,22.0,0.0,1
+Diphtheria,24,22.0,10.0,4
+Typhoid Fever,44,22.0,0.0,2
+Hepatitis and Jaundice,52,22.0,0.0,1
+Fever with Rash (Enterovirus),37,22.0,0.0,2
+Mushroom Poisoning,33,22.0,0.0,2
+Gastroenteritis,15,22.0,0.0,2
+Food Poisoning (Bamangadh),17,22.0,0.0,1
+Hepatitis E,52,22.0,0.0,1
+Hepatitis B,40,21.0,0.0,1
+Anthrax,12,21.0,0.0,3
+Kala Azar,9,21.0,0.0,2
+Japanese Encephalitis,17,21.0,4.0,4
+Drug side effects,19,21.0,0.0,1
+Diarrhoea,10,21.0,0.0,1
+Leptospirosis,4,21.0,0.0,3
+Scrub Typhus,10,21.0,0.0,1
+Suspected Food Poisoning,10,21.0,0.0,1
+Hepatitis B,14,21.0,0.0,1
+Diarrhoea,29,20.0,0.0,2
+Typhoid,51,20.0,0.0,4
+Japanese Encephalitis,16,20.0,1.0,2
+Scrub Typhus,26,20.0,2.0,4
+Dysentery,16,20.0,0.0,1
+Viral Fever,11,20.0,1.0,1
+Acute Encephalitis Syndrome (Japanese Encephalitis),43,20.0,0.0,2
+Viral Fever,45,20.0,0.0,1
+Animal bite - Dog Bite,48,20.0,0.0,2
+Influenza A,19,20.0,0.0,2
+Human Rabies,12,20.0,20.0,16
+Measles and Rubella,4,20.0,0.0,2
+Anthrax,13,20.0,0.0,3
+Trichinella,15,20.0,0.0,1
+Acute Encephalitic Syndrome,52,20.0,0.0,2
+Leptospirosis,48,20.0,2.0,3
+Hepatitis A and E,9,20.0,0.0,2
+Shigellosis,20,20.0,0.0,2
+Cutaneous Anthrax,22,20.0,0.0,3
+Suspected Scrub Typhus,36,20.0,0.0,2
+Singhbum,23,20.0,0.0,2
+Hepatitis,41,20.0,0.0,2
+Suspected Typhoid,46,20.0,0.0,2
+Measles and Rubella,23,20.0,2.0,2
+Hepatitis A and E,31,20.0,0.0,2
+Mixed Fever,11,20.0,0.0,2
+Acute Encephalitis Syndrome (Japanese Encephalitis),34,20.0,4.0,1
+Acute Encephalitis Syndrome (Japanese Encephalitis),23,20.0,10.0,1
+Kala Azar,13,20.0,0.0,1
+Diphtheria,20,20.0,0.0,2
+Enteric Fever,18,20.0,0.0,1
+Leptospirosis,13,20.0,0.0,1
+Leishmaniasis,40,19.0,5.0,8
+Staphylococcal Food Poisoning,16,19.0,0.0,1
+Rubella,4,19.0,0.0,1
+Enteric Fever,41,19.0,0.0,1
+"Suspected Hand, Foot and Mouth Disease (HFMD)",28,18.0,0.0,1
+Hepatitis B,49,18.0,0.0,2
+Hepatitis B,24,18.0,0.0,3
+Mixed Malaria (Plasmodium falciparum & Plasmodium vivax),27,18.0,2.0,2
+Bacillary Dysentery,7,18.0,0.0,1
+Pyrexia of Unknown andigin (PUO),21,18.0,0.0,2
+Jatropha Seeds Poisoning,45,18.0,0.0,2
+,12,18.0,0.0,1
+Leptospirosis,42,18.0,2.0,4
+Dengue and Scrub Typhus,28,18.0,0.0,2
+Mushroom Poisoning,16,18.0,8.0,2
+Human Rabies,19,18.0,18.0,18
+Diarrhoea,30,18.0,0.0,1
+Leptospirosis,18,18.0,6.0,6
+Acute Encephalitis Syndrome (Japanese Encephalitis),42,18.0,0.0,2
+Viral Hepatitis,29,18.0,0.0,2
+Zika Virus,33,18.0,0.0,4
+Zika Virus,26,18.0,0.0,4
+Anthrax,11,18.0,0.0,4
+Nipah Viral Encephalitis,20,18.0,14.0,2
+Acute Respiratandy Influenza,7,18.0,0.0,1
+Animal bite - Dog Bite,1,18.0,0.0,2
+Hepatitis E,39,18.0,0.0,2
+Measles and Rubella,16,18.0,0.0,2
+Leishmaniasis,5,18.0,0.0,2
+Hepatitis B,8,18.0,0.0,2
+Typhoid,21,17.0,0.0,1
+Pertussis,15,17.0,0.0,3
+Typhoid Fever,10,17.0,0.0,1
+Rubella,42,17.0,0.0,1
+Acute Febrile Illness and Malaria,50,17.0,0.0,1
+Hepatitis A and E,36,17.0,0.0,1
+Amoebic Dysentery,28,17.0,0.0,1
+Leishmaniasis,21,16.0,2.0,3
+Measles and Rubella,2,16.0,0.0,2
+Mushroom Poisoning,21,16.0,0.0,2
+Acute Encephalitic Syndrome,39,16.0,3.0,3
+Nandovirus,23,16.0,0.0,2
+Human Rabies,10,16.0,16.0,14
+Leptospirosis,49,16.0,0.0,2
+Alcohol Poisoning,44,16.0,1.0,1
+Hepatitis A and E,41,16.0,1.0,1
+Hepatitis A and E,51,16.0,0.0,3
+Measles and Rubella,33,16.0,0.0,2
+Hepatitis B,5,16.0,0.0,2
+Hepatitis A and E,34,16.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),28,16.0,5.0,4
+Diphtheria,48,16.0,10.0,6
+Dysentery,43,16.0,0.0,2
+Rubella,27,16.0,0.0,1
+Hepatitis A and E,13,16.0,0.0,1
+Enteric Fever,40,16.0,4.0,1
+Acute Respiratandy Illness,7,16.0,12.0,2
+Viral Fever,20,16.0,0.0,1
+Rickettsia Scrub Typhus,47,16.0,0.0,1
+Zika Virus,45,16.0,0.0,6
+Acute Hepatitis-A,18,16.0,0.0,2
+Paratyphoid,3,16.0,0.0,2
+Malaria (P.falciparum & P.vivax),24,16.0,0.0,2
+Anthrax,38,16.0,0.0,5
+Pertussis,41,16.0,0.0,2
+Japanese Encephalitis,5,16.0,2.0,4
+Zika Virus,39,16.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),35,15.0,2.0,6
+Meningitis,5,15.0,7.0,1
+Brucellosis,11,15.0,0.0,1
+Fever Leptospirosis,12,15.0,0.0,1
+Zika Virus,32,14.0,0.0,8
+Leptospirosis,38,14.0,2.0,4
+Japanese Encephalitis,52,14.0,0.0,2
+Acute Respiratandy Illness,9,14.0,0.0,1
+Kyasanur Fandest Disease,53,14.0,0.0,1
+Hepatitis,13,14.0,0.0,1
+Suspected Mumps,18,14.0,0.0,2
+Diphtheria,51,14.0,2.0,2
+Leishmaniasis,9,14.0,0.0,1
+Anthrax,52,14.0,0.0,2
+Fever with Rash,33,14.0,0.0,2
+Japanese Encephalitis,46,14.0,0.0,4
+Malaria (P.falciparum and P.vivax) and Dengue,24,14.0,0.0,2
+Epidemic Dropsy,42,14.0,1.0,1
+Epidemic Dropsy,41,14.0,6.0,2
+Pertussis,18,14.0,0.0,6
+Acute Hepatitis-E,10,14.0,0.0,2
+Primary Amoebic Meningo-encephalitis,32,14.0,2.0,2
+Epidemic Dropsy,24,14.0,4.0,2
+Pertussis,25,14.0,0.0,4
+Mushroom Poisoning,28,14.0,0.0,2
+Fever and Dengue,28,14.0,2.0,2
+Pertussis,43,14.0,0.0,2
+Swine Flu (H1N1),26,14.0,0.0,1
+Human Rabies,22,14.0,14.0,12
+Dengue and Leptospirosis,45,14.0,2.0,2
+Mushroom Poisoning,9,14.0,2.0,2
+Human Rabies,21,14.0,14.0,4
+Bacillary Dysentery,14,14.0,1.0,1
+Cutaneous Leishmaniasis (Kala Azar),27,14.0,0.0,2
+Food Poisoning (Shigella Sonnie),18,14.0,2.0,2
+Suspected Anthrax,21,14.0,0.0,2
+Acute Flaccid Paralysis,8,14.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),5,14.0,9.0,6
+Chikungunya and Dengue,48,14.0,0.0,2
+Chickenpox and Measles,15,14.0,0.0,2
+Human Rabies,8,14.0,14.0,14
+Anthrax,34,14.0,0.0,1
+Leishmaniasis,26,14.0,0.0,1
+Pyrexia of Unknown andigin (PUO),2,13.0,0.0,1
+Mushroom Poisoning,14,13.0,5.0,3
+Food Poisoning (Seed),10,13.0,0.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),38,13.0,4.0,10
+Diphtheria,50,13.0,0.0,1
+Acute Encephalitic Syndrome,21,13.0,4.0,3
+Acute Meningitis,6,13.0,6.0,1
+Japanese Encephalitis,48,13.0,4.0,7
+Acute Encephalitis Syndrome (Japanese Encephalitis),50,13.0,2.0,1
+Rubella,31,13.0,0.0,1
+Rubella,37,12.0,0.0,2
+Chikungunya and Dengue,28,12.0,0.0,2
+Diphtheria,21,12.0,0.0,4
+Leptospirosis,31,12.0,2.0,4
+Scrub Typhus,6,12.0,0.0,2
+Hepatitis A and E,40,12.0,0.0,1
+Acute Febrile Illness,40,12.0,2.0,2
+Benzene Hexachlandide (BHC) Poisoning,9,12.0,0.0,2
+Paratyphoid,36,12.0,4.0,2
+Animal bite - Dog Bite,8,12.0,2.0,4
+Acute Hepatitis-A,28,12.0,0.0,2
+Viral Exanthems (Multiple Papulo Pustular Lesions),18,12.0,0.0,1
+Jatropha Seeds Poisoning,9,12.0,0.0,2
+Hepatitis C,47,12.0,0.0,2
+Indigenous Malaria,31,12.0,0.0,2
+Nipah Virus,37,12.0,4.0,2
+Human Rabies,11,12.0,12.0,12
+Mushroom Poisoning,24,12.0,0.0,2
+Human Rabies,4,12.0,12.0,12
+Shigellosis,9,12.0,0.0,4
+Measles and Rubella,46,12.0,0.0,2
+Anthrax,36,12.0,0.0,2
+Scrub Typhus,50,12.0,0.0,2
+Human Rabies,50,12.0,6.0,6
+Leptospirosis,51,12.0,2.0,4
+Vivax Malaria,36,12.0,0.0,2
+Acute Hepatitis-B,20,12.0,0.0,2
+Diphtheria,6,11.0,1.0,3
+Leptospirosis,14,11.0,1.0,1
+Chandipura Vesiculovirus (CHPV),29,11.0,3.0,3
+Poisoning,4,11.0,0.0,1
+Anthrax,31,11.0,0.0,2
+Alcohol Poisoning,39,11.0,3.0,1
+Influenza A,52,11.0,0.0,1
+Brucellosis,19,10.0,0.0,4
+Food Poisoning (Mushroom Poisoning),18,10.0,0.0,2
+"Hand, Foot and Mouth Disease (HFMD)",23,10.0,0.0,2
+Brucellosis,40,10.0,0.0,4
+Acute Encephalitis Syndrome (Japanese Encephalitis),12,10.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),3,10.0,5.0,3
+Scrub Typhus,9,10.0,0.0,2
+Kala Azar,10,10.0,0.0,1
+Kyasanur Fandest Disease,51,10.0,0.0,2
+Meningitis,11,10.0,0.0,2
+Monkey Pox,28,10.0,2.0,8
+Suspected Dengue Fever,21,10.0,0.0,2
+Forest Disease,2,10.0,0.0,2
+Animal bite - Dog Bite,40,10.0,0.0,2
+Leptospirosis,44,10.0,0.0,1
+Leptospirosis and Scrub Typhus,39,10.0,0.0,2
+Anthrax,7,10.0,0.0,2
+Human Rabies,16,10.0,10.0,10
+Trichinella,11,10.0,0.0,1
+Anthrax,45,10.0,0.0,2
+Measles and Rubella,8,10.0,0.0,2
+Cutaneous Anthrax,24,10.0,0.0,2
+Swine Flu (H1N1),22,10.0,2.0,1
+Filariasis,27,10.0,0.0,2
+Mushroom Poisoning,38,10.0,0.0,1
+Scrub Typhus and Dengue and Leptospirosis,40,10.0,2.0,2
+Acute Encephalitic Syndrome,20,10.0,4.0,4
+Acute Encephalitic Syndrome,40,10.0,10.0,3
+Melioidosis,30,10.0,8.0,6
+Human Rabies,51,10.0,10.0,10
+Jaundice,34,10.0,0.0,1
+Japanese Encephalitis,45,10.0,0.0,2
+Epidemic Dropsy,22,10.0,2.0,1
+Epidemic Dropsy,31,10.0,2.0,1
+Malaria (P.vivax),19,10.0,0.0,2
+Malaria (Mixed),29,10.0,0.0,2
+Enteric Fever,42,10.0,0.0,1
+Falciparum Malaria,34,10.0,0.0,2
+Diphtheria,4,10.0,2.0,2
+Pyrexia of Unknown andigin (PUO),25,10.0,0.0,1
+Kyasanur Fandest Disease,12,10.0,4.0,2
+Vivax Malaria,38,10.0,0.0,2
+Leishmaniasis,53,10.0,2.0,4
+Vivax Malaria,42,10.0,0.0,2
+Acute Encephalitis Syndrome (Japanese Encephalitis),35,9.0,0.0,1
+Rubella,29,9.0,0.0,1
+Jaundice,3,9.0,0.0,1
+Japanese Encephalitis,13,9.0,1.0,3
+Cast and Seed Poisoning,12,9.0,0.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),37,9.0,7.0,7
+Diphtheria,3,9.0,2.0,2
+Diphtheria,1,9.0,5.0,6
+Hepatitis A and E,48,9.0,0.0,1
+Malaria (P.falciparum & P.vivax),26,8.0,2.0,2
+Malaria and Dengue,31,8.0,0.0,2
+Zika Virus,25,8.0,0.0,4
+Malaria (P.falciparum),28,8.0,2.0,2
+Animal bite - Dog Bite,42,8.0,2.0,2
+Jaundice,30,8.0,0.0,1
+Human Rabies,44,8.0,8.0,8
+Human Rabies,7,8.0,8.0,8
+Human Rabies,37,8.0,8.0,8
+Human Rabies,18,8.0,8.0,8
+Swine Flu (H1N1),24,8.0,2.0,1
+Falciparum Malaria,32,8.0,2.0,2
+Human Rabies,36,8.0,8.0,8
+Human Rabies,14,8.0,8.0,4
+Human Rabies,15,8.0,8.0,8
+Chandipura Vesiculovirus (CHPV),31,8.0,2.0,8
+Monkey Pox,1,8.0,0.0,4
+Hepatitis B,47,8.0,0.0,2
+Acute Encephalitic Syndrome,32,8.0,8.0,3
+Kyasanur Fandest Disease,19,8.0,2.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),47,8.0,2.0,8
+Cutaneous Anthrax,12,8.0,2.0,2
+Acute Encephalitic Syndrome,41,8.0,2.0,2
+Cutaneous Anthrax,15,8.0,0.0,2
+Cutaneous Anthrax,30,8.0,0.0,1
+Mushroom Poisoning,12,8.0,4.0,2
+Neonatal Tetanus,5,8.0,8.0,2
+Cutaneous Anthrax,23,8.0,0.0,2
+West Nile Fever,33,8.0,0.0,2
+West Nile Fever,16,8.0,0.0,8
+Leishmaniasis,30,8.0,2.0,2
+Kala Azar,22,7.0,1.0,1
+Hepatitis A and E,47,7.0,0.0,1
+Anthrax,10,7.0,0.0,4
+Mushroom Poisoning,17,7.0,2.0,1
+Hepatitis,45,7.0,1.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),12,7.0,3.0,7
+Human Rabies,6,7.0,7.0,7
+Swine Flu (H1N1),25,7.0,1.0,1
+Chandipura Vesiculovirus (CHPV),34,7.0,2.0,5
+Falciparum Malaria,2,6.0,2.0,2
+Pertussis,50,6.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),42,6.0,4.0,4
+Acute Flaccid Paralysis,9,6.0,0.0,4
+Diphtheria,26,6.0,4.0,2
+West Nile Fever,21,6.0,0.0,6
+West Nile Fever,13,6.0,2.0,4
+Jatropha Seeds Poisoning,6,6.0,0.0,1
+Leptospirosis,45,6.0,0.0,1
+West Nile Fever,19,6.0,2.0,4
+Shigellosis,10,6.0,0.0,2
+Cutaneous Anthrax,28,6.0,1.0,1
+Animal bite - Snake Bite,29,6.0,2.0,2
+Diphtheria,5,6.0,4.0,5
+Mpox,8,6.0,0.0,6
+Diphtheria,2,6.0,2.0,6
+Rubella,8,6.0,0.0,1
+Hepatitis C,17,6.0,0.0,1
+COVID 19,7,6.0,0.0,6
+COVID 19,8,6.0,0.0,6
+Melioidosis,4,6.0,0.0,6
+Zika Virus,34,6.0,0.0,6
+Leptospirosis,10,6.0,0.0,2
+COVID 19,5,6.0,0.0,6
+Leptospirosis,32,6.0,0.0,2
+Jaundice,1,6.0,0.0,1
+"Hand, Foot and Mouth Disease (HFMD)",40,6.0,0.0,1
+Hepatitis,42,6.0,0.0,1
+Malaria (P.vivax),27,6.0,0.0,2
+Human Rabies,41,6.0,6.0,4
+Human Rabies,31,6.0,6.0,6
+Malaria (P.falciparum),24,6.0,2.0,2
+Hepatitis B,25,6.0,0.0,1
+Hepatitis A and E,35,6.0,0.0,1
+Mpox,3,6.0,0.0,6
+Avian Influenza,8,6.0,850.0,2
+Animal bite - Dog Bite,43,6.0,0.0,2
+Anthrax,39,6.0,0.0,2
+Anthrax,37,6.0,0.0,2
+Human Rabies,3,6.0,6.0,6
+Kala Azar,42,6.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),41,6.0,2.0,6
+Fever with Altered sensandium,49,6.0,6.0,2
+Fever with Rash,42,6.0,0.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),13,6.0,3.0,6
+Human Rabies,24,6.0,6.0,6
+Acute Encephalitic Syndrome,42,6.0,5.0,1
+Brucellosis,26,6.0,0.0,2
+COVID 19,6,6.0,0.0,6
+Human Rabies,9,6.0,6.0,6
+Swine Flu (H1N1),23,6.0,3.0,1
+Zika Virus,36,6.0,0.0,2
+Kyasanur Fandest Disease,48,6.0,0.0,1
+Human Rabies,5,6.0,6.0,6
+Meningitis,27,6.0,0.0,1
+Human Rabies,25,6.0,6.0,6
+Anthrax,41,6.0,0.0,2
+Brucellosis,39,6.0,0.0,2
+Anthrax,42,6.0,2.0,2
+Acute Encephalitic Syndrome,36,5.0,2.0,2
+Fever with Altered sensandium,46,5.0,1.0,1
+Acute Encephalitic Syndrome,8,5.0,0.0,1
+Herpes Simplex Encephalitis,9,5.0,1.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),32,5.0,4.0,4
+Acute Encephalitic Syndrome,45,5.0,5.0,1
+Viral Encephalitis,41,5.0,2.0,1
+Acute Respiratandy Illness,1,5.0,2.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),30,5.0,3.0,5
+Crimean-Congo Haemandrhagic Fever (CCHF),46,5.0,0.0,5
+Kyasanur Fandest Disease,52,5.0,0.0,1
+Zika Virus,47,4.0,0.0,4
+Zika Virus,19,4.0,0.0,2
+Diphtheria,25,4.0,4.0,4
+West Nile Fever,24,4.0,0.0,4
+West Nile Fever,14,4.0,0.0,4
+West Nile Fever,20,4.0,0.0,4
+Acute Flaccid Paralysis,23,4.0,0.0,4
+Acute Flaccid Paralysis,18,4.0,0.0,2
+Rubella,33,4.0,0.0,2
+Rubella,30,4.0,0.0,2
+Scrub Typhus,14,4.0,2.0,2
+Monkey Pox,47,4.0,0.0,2
+Japanese Encephalitis,3,4.0,4.0,4
+Mpox (Clade I),43,4.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),33,4.0,3.0,4
+Crimean-Congo Haemandrhagic Fever (CCHF),25,4.0,2.0,1
+Acute Viral Encephalitis (Chandipura),29,4.0,4.0,2
+Malaria (P.falciparum),1,4.0,2.0,2
+Animal bite - Dog Bite,5,4.0,4.0,4
+Human Rabies,52,4.0,4.0,4
+Mpox,48,4.0,0.0,2
+Mpox,51,4.0,0.0,4
+Cutaneous Leishmaniasis,5,4.0,0.0,2
+Human Rabies,45,4.0,4.0,4
+Crimean-Congo Haemandrhagic Fever (CCHF),52,4.0,2.0,4
+Human Rabies,47,4.0,4.0,4
+Human Rabies,48,4.0,4.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),45,4.0,0.0,4
+Acute Flaccid Paralysis (Epstein Bar Virus and Human Herpes Virus),9,4.0,0.0,2
+Acute Flaccid Paralysis,33,4.0,0.0,2
+Shigellosis,23,4.0,0.0,2
+Cutaneous Leishmaniasis,49,4.0,0.0,2
+Kala Azar,2,4.0,0.0,2
+Acute Respiratandy Illness,5,4.0,4.0,1
+Epidemic Dropsy,29,4.0,0.0,1
+Food Poisoning (Mushroom Poisoning),20,4.0,0.0,1
+Complicated Malaria (Plasmodium falciparum),27,4.0,4.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),51,4.0,4.0,4
+Nile Fever,8,4.0,0.0,2
+Lyme Disease,8,4.0,1.0,1
+Fever of Unknown Cause,40,4.0,2.0,2
+Human Rabies,40,4.0,4.0,4
+Human Rabies,26,4.0,4.0,4
+Human Rabies,27,4.0,4.0,4
+Human Rabies,28,4.0,4.0,4
+Human Rabies,29,4.0,4.0,4
+Human Rabies,2,4.0,4.0,4
+Acute Encephalitic Syndrome,18,4.0,2.0,4
+Human Rabies,17,4.0,4.0,4
+Acute Encephalitic Syndrome,47,4.0,4.0,1
+Anthrax,29,4.0,0.0,1
+Human Rabies,33,4.0,4.0,4
+Anthrax,48,4.0,0.0,2
+Measles and Rubella,18,4.0,0.0,2
+Anthrax,44,4.0,0.0,2
+Rabies,10,4.0,4.0,4
+Suspected Human Rabies,24,4.0,4.0,4
+Mpox,9,4.0,0.0,4
+Rubella,26,4.0,0.0,2
+Scrub Typhus,21,4.0,0.0,2
+Chandipura Vesiculovirus (CHPV),32,4.0,1.0,4
+Diphtheria,7,4.0,2.0,4
+Acute Encephalitic Syndrome,15,4.0,0.0,4
+Leishmaniasis,52,4.0,4.0,4
+Melioidosis,35,4.0,0.0,2
+Kyasanur Fandest Disease,4,4.0,0.0,2
+Kala Azar,15,4.0,0.0,1
+Kyasanur Fandest Disease,16,4.0,3.0,3
+Kyasanur Fandest Disease,22,4.0,0.0,1
+Leishmaniasis,19,4.0,0.0,2
+Meningococcal Meningitis,11,3.0,1.0,1
+Acute Flaccid Paralysis,30,3.0,0.0,2
+Acute Flaccid Paralysis,28,3.0,0.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),8,3.0,2.0,3
+Human Rabies,13,3.0,3.0,3
+Anthrax,6,3.0,0.0,1
+Acute Encephalitis Syndrome (Japanese Encephalitis),38,3.0,0.0,1
+Viral Encephalitis,32,3.0,3.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),44,3.0,1.0,3
+Chandipura Vesiculovirus (CHPV),33,3.0,1.0,3
+Leishmaniasis,34,2.0,2.0,2
+Visceral Leishmaniasis,47,2.0,0.0,2
+Visceral Leishmaniasis,43,2.0,0.0,2
+Visceral Leishmaniasis,27,2.0,0.0,2
+Leptospirosis,17,2.0,2.0,2
+West Nile Fever,28,2.0,2.0,2
+Acute Encephalitic Syndrome,5,2.0,0.0,2
+Leptospirosis,1,2.0,2.0,2
+Leptospirosis,3,2.0,2.0,2
+Zika Virus,50,2.0,0.0,2
+Zika Virus,49,2.0,0.0,2
+Chandipura Vesiculovirus (CHPV),28,2.0,2.0,2
+Visceral Leishmaniasis,49,2.0,2.0,2
+Visceral Leishmaniasis,2,2.0,0.0,2
+Viral Infection,41,2.0,1.0,1
+Kyasanur Fandest Disease,44,2.0,0.0,2
+Acute Encephalitic Syndrome,4,2.0,2.0,2
+West Nile Fever,26,2.0,0.0,2
+Kala Azar,21,2.0,0.0,2
+Zika Virus,30,2.0,0.0,2
+Visceral Leishmaniasis,23,2.0,0.0,2
+Mpox,12,2.0,0.0,2
+Mpox,17,2.0,0.0,2
+Suspected Japanese Encephalitis,37,2.0,2.0,2
+Falciparum Malaria,42,2.0,0.0,2
+Rabies,8,2.0,2.0,2
+Melioidosis,28,2.0,0.0,2
+Melioidosis,42,2.0,0.0,2
+Meningococcal Meningitis,9,2.0,2.0,1
+Monkey Pox,8,2.0,0.0,2
+Scrub Typhus,25,2.0,0.0,2
+Anthrax,40,2.0,0.0,2
+Nipah Virus,28,2.0,2.0,2
+Brucellosis,13,2.0,0.0,2
+Chandipura Vesiculovirus (CHPV),47,2.0,0.0,2
+Brucellosis,20,2.0,0.0,2
+Mpox,11,2.0,0.0,2
+Leptospirosis,33,2.0,2.0,2
+Acute Encephalitic Syndrome (Suspected CHPV),28,2.0,0.0,2
+Leptospirosis and Scrub Typhus,51,2.0,0.0,2
+Acute Encephalitic Syndrome,37,2.0,2.0,2
+Meningitis,22,2.0,0.0,2
+Chandipura Vesiculovirus (CHPV),25,2.0,0.0,2
+Human Rabies,23,2.0,2.0,2
+Meningitis,26,2.0,2.0,2
+Human Rabies,20,2.0,2.0,2
+Anthrax,46,2.0,2.0,1
+Human Rabies,38,2.0,2.0,2
+Mpox (Clade I),38,2.0,0.0,2
+Kyasanur Fandest Disease,20,2.0,2.0,2
+Kyasanur Fandest Disease,18,2.0,2.0,2
+Falciparum Malaria,41,2.0,2.0,2
+Brucellosis,21,2.0,0.0,2
+Herpes Simplex Encephalitis,34,2.0,2.0,2
+Tetanus,47,2.0,2.0,2
+Animal bite - Dog Bite,29,2.0,2.0,2
+Animal bite - Dog Bite,39,2.0,2.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),17,2.0,2.0,2
+Monkey Pox,39,2.0,0.0,2
+Monkey Pox,26,2.0,0.0,2
+Animal bite - Dog Bite,34,2.0,2.0,2
+Monkey Pox,10,2.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),22,2.0,2.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),21,2.0,2.0,2
+Mpox (Clade I),51,2.0,0.0,2
+Mpox (Clade I),50,2.0,0.0,2
+Mpox (Clade I),46,2.0,0.0,2
+Animal bite - Dog Bite,27,2.0,2.0,2
+Monkey Pox,21,2.0,0.0,2
+Animal bite - Dog Bite,26,2.0,2.0,2
+Animal bite - Dog Bite,11,2.0,2.0,2
+Japanese Encephalitis,4,2.0,0.0,2
+Human Rabies,32,2.0,2.0,2
+Human Rabies,30,2.0,2.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),27,2.0,2.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),24,2.0,0.0,2
+Mpox,47,2.0,0.0,2
+Mpox,41,2.0,0.0,2
+Mpox,39,2.0,0.0,2
+Mpox,38,2.0,0.0,2
+Human Rabies,39,2.0,2.0,2
+Human Rabies,35,2.0,2.0,2
+Trypanosomiasis,31,2.0,0.0,2
+Kyasanur Fandest Disease,17,2.0,0.0,2
+Diphtheria,10,2.0,2.0,2
+Influenza,22,2.0,2.0,2
+Mpox,23,2.0,0.0,2
+Mpox,26,2.0,0.0,2
+Mpox,30,2.0,0.0,2
+Mpox,37,2.0,0.0,2
+Human Rabies,46,2.0,2.0,2
+Human Rabies,49,2.0,2.0,2
+Amoebic Encephalitis,45,2.0,0.0,2
+Mpox (Clade II),45,2.0,0.0,2
+Cutaneous Anthrax,6,2.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),50,2.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),48,2.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),40,2.0,2.0,2
+Japanese Encephalitis,6,2.0,0.0,2
+Malaria (P.falciparum),3,2.0,2.0,2
+Acute Meningoencephalitis (Naegleria fowleri),34,2.0,2.0,2
+Diphtheria,13,2.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),34,2.0,1.0,2
+Nipah Virus,38,2.0,2.0,2
+Pertussis,6,2.0,0.0,2
+Shigellosis,27,2.0,0.0,2
+Cutaneous Leishmaniasis,34,2.0,0.0,2
+Kala Azar,3,2.0,0.0,2
+Filariasis,42,2.0,0.0,2
+Kala Azar,40,2.0,0.0,2
+Kala Azar,29,2.0,0.0,2
+Viral Encephalitis,30,2.0,2.0,2
+Kala Azar,51,2.0,0.0,1
+Lyme Disease,6,2.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),39,2.0,0.0,2
+Cutaneous Leishmaniasis,7,2.0,0.0,2
+Crimean-Congo Haemandrhagic Fever (CCHF),23,2.0,0.0,1
+Nipah Virus,27,2.0,0.0,2
+Nipah Virus,29,2.0,2.0,2
+Nipah Virus,30,2.0,2.0,2
+Nipah Virus,19,2.0,0.0,2
+Acute Flaccid Paralysis,32,2.0,1.0,1
+Diphtheria,15,2.0,2.0,2
+Acute Flaccid Paralysis,24,2.0,0.0,1
+Nipah Virus,3,2.0,1.0,1
+Kala Azar,5,2.0,0.0,2
+Rubella,45,2.0,0.0,2
+Diphtheria,31,2.0,2.0,2
+West Nile Fever,22,2.0,0.0,2
+West Nile Fever,18,2.0,0.0,2
+West Nile Fever,11,2.0,2.0,2
+West Nile Fever,10,2.0,0.0,2
+Acute Flaccid Paralysis,10,2.0,0.0,1
+West Nile Fever,40,2.0,0.0,2
+West Nile Fever,36,2.0,0.0,2
+Neonatal Tetanus,27,2.0,0.0,2
+Filariasis,13,2.0,0.0,2
+Zika Virus,38,2.0,0.0,2
+Zika Virus,23,2.0,0.0,2
+West Nile and Dengue,46,2.0,0.0,2
+Diphtheria,23,2.0,0.0,2
+West Nile Fever,41,2.0,0.0,2
+Poliomyelitis (Vaccine-Derived Polio Virus),34,2.0,0.0,2
+Kyasanur Fandest Disease,50,2.0,0.0,2
+Kyasanur Fandest Disease,49,2.0,0.0,2
+Acute Flaccid Paralysis,6,2.0,0.0,2
+Zika Virus,48,2.0,0.0,2
+West Nile Fever,7,2.0,0.0,2
+Zika Virus,40,2.0,0.0,2
+Acute Encephalitic Syndrome,7,1.0,1.0,1
+Kala Azar,16,1.0,1.0,1
+Acute Encephalitis Syndrome (Japanese Encephalitis),33,1.0,1.0,1
+Acute Flaccid Paralysis,25,1.0,0.0,1
+Mpox,4,1.0,0.0,1
+Acute Flaccid Paralysis,31,1.0,0.0,1
+Acute Flaccid Paralysis,50,1.0,0.0,1
+Japanese Encephalitis,53,1.0,1.0,1
+Viral Encephalitis,25,1.0,1.0,1
+Anthrax,4,1.0,1.0,1
+Human metapneumovirus (HMPV),12,1.0,1.0,1
+Human Meta Pneumo Virus (HMPV),12,1.0,1.0,1
+Meningococcal Meningitis,3,1.0,0.0,1
+Chandipura Vesiculovirus (CHPV),36,1.0,1.0,1
+Mpox,5,1.0,0.0,1
+Mpox,10,1.0,0.0,1
+Meningitis,13,1.0,0.0,1
+Acute Encephalitic Syndrome,34,1.0,1.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),20,1.0,1.0,1
+Mpox,2,1.0,0.0,1
+Subcutaneous Wound,41,1.0,0.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),7,1.0,1.0,1
+Mpox (Clade I),7,1.0,0.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),29,1.0,0.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),1,1.0,1.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),2,1.0,0.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),4,1.0,0.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),6,1.0,1.0,1
+Diphtheria,14,1.0,0.0,1
+Mpox (Clade II),8,1.0,0.0,1
+Crimean-Congo Haemandrhagic Fever (CCHF),43,1.0,1.0,1
+Primary Amoebic Meningo-encephalitis,13,1.0,1.0,1
+Zika Virus,8,1.0,0.0,1
+Pertussis,7,1.0,1.0,1
+Acute Febrile Illness,37,0.0,37.0,1
+Scrub Typhus and Dengue and Chikungunya,36,0.0,22.0,1

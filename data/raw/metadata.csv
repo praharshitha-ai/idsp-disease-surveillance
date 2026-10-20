@@ -1,0 +1,10 @@
+organisation,Ministry of Health and Family Welfare
+sectors,"Health and Family Welfare"
+updated_frequency,Weekly
+granularity,"State, District, Disease, Year, Week"
+time_saved,6 hours
+source,"Integrated Disease Surveillance Programme (IDSP)"
+source_link,"https://idsp.mohfw.gov.in/index4.php?lang=1&level=0&linkid=406&lid=3689"
+time_period,"2009 to 2026"
+units,"cases in absolute number, deaths in absolute number"
+citation,"Ministry of Health and Family Welfare. Master Data: State, District and Disease-wise Cases and Death reported due to Outbreak of Diseases as per Weekly reports under IDSP [Data set]. Dataful. https://dataful.in/datasets/18514/18514"

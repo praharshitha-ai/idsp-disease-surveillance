@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "india_shp_2020: District-level administrative boundaries for India (2020)"
+message: "If you use these boundaries, please cite this repository and the upstream source."
+type: dataset
+authors:
+  - family-names: Bhatia
+    given-names: Abhishek
+repository-code: "https://github.com/abhatia08/india_shp_2020"
+abstract: >-
+  A single national district-level shapefile for India (735 districts across 37
+  states and union territories, WGS 84 / EPSG:4326), assembled by merging
+  per-state official administrative boundary shapefiles of 2020 vintage.
+keywords:
+  - India
+  - shapefile
+  - districts
+  - administrative boundaries
+  - GIS
+license: MIT
+date-released: "2020-06-18"
+references:
+  - type: data
+    title: "India Official Boundaries 2019"
+    authors:
+      - name: "Justin Elliot Meyers"
+    repository-code: "https://github.com/justinelliotmeyers/India_Official_Boundaries_2019"
