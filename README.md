@@ -80,3 +80,7 @@ The aggregated outputs the dashboard reads are included in `frontend/public/data
 ## Keep the API key out of builds
 
 Vite embeds any `VITE_` variable into the built JavaScript. If you run `npm run build` with a real `VITE_GROQ_API_KEY` in `.env`, the key ends up in `dist/` and anyone can read it. Build without the key before deploying. Users can paste their own key into the chatbot instead, and it's stored only in their browser.
+
+## License
+
+Code is released under the [MIT License](LICENSE). The data and map boundaries keep their own sources and terms, listed under [Data](#data).

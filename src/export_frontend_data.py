@@ -205,7 +205,13 @@ def _month_series(d):
     ds = pd.to_datetime(d["outbreak_starting_date"], errors="coerce")
     wk = pd.to_numeric(d.get("week"), errors="coerce")
     mo_week = (((wk - 1) * 12 // 53) + 1).clip(1, 12)
-    return ds.dt.month.fillna(mo_week).fillna(1).astype(int)
+    mo = ds.dt.month
+    # Rows are filed under their IDSP (epidemiological) year, but the outbreak can start
+    # in the calendar year before or after it. Without this, an outbreak that began in
+    # late December 2025 and was reported in week 1 of 2026 was counted as December 2026.
+    yr = pd.to_numeric(d.get("year"), errors="coerce")
+    mo = mo.mask(ds.dt.year < yr, 1).mask(ds.dt.year > yr, 12)
+    return mo.fillna(mo_week).fillna(1).astype(int)
 
 
 def disease_insights(sub, states, years):
